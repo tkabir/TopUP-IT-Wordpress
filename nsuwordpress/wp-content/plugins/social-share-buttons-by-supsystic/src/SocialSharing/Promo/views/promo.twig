@@ -1,0 +1,102 @@
+{% extends 'base.twig' %}
+
+{% block layout %}
+    <style>
+        .textContent {
+            word-wrap: break-word !important;
+            text-overflow: clip !important;
+            white-space: normal !important;
+        }
+    </style>
+    <section>
+        <div class="supsystic-item supsystic-panel supsystic-plugin">
+            <div id="containerWrapper">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <h2>
+                            {{ environment.translate('Welcome to the') }} {{ plugin_name }} v {{ plugin_version }}
+                        </h2>
+                        <p>
+                            {{ environment.translate('Increase social traffic and popularity with Social Share Buttons.') }} <br/>
+                            {{ environment.translate('The main idea of the plugin - create different.') }}
+                        </p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-8">
+                        <div class="row">
+                            <div class="col-sm-6">
+                                <h3>{{ environment.translate('Step-by-step tutorial') }}</h3>
+                                <p class="textContent">
+                                    {{ environment.translate('There’re really many options of social share buttons customization.') }} <br/>
+                                    {{ environment.translate('So as soon as you close that page, I’ll show you step-by-step tutorial of how to use plugin.') }} <br/>
+                                    {{ environment.translate('Hope it will be usefull for you :)') }} <br/>
+                                </p>
+                            </div>
+                            <div class="col-sm-6">
+                                <h3>{{ environment.translate('Support') }}</h3>
+                                <p class="textContent">
+                                    {{ environment.translate('We love our plugin and do the best to improve all features you want and fix all issues.') }} <br/>
+                                    {{ environment.translate('But sometimes some issues happened or you can’t find feature you want :)') }} <br/>
+                                    {{ environment.translate('Don’t worry, just ') }} <a href="//supsystic.com/plugins/social-share-plugin?utm_source=plugin&utm_medium=welcomepage&utm_campaign=socialbuttons#contact" target="_blank">{{ environment.translate('contact us') }}</a>. <br/>
+                                    {{ environment.translate('We’ll answer in an hour and fix all issues.') }} <br/>
+                                </p>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <h3>{{ environment.translate('Video Tutorial') }}</h3>
+                                <iframe type="text/html"
+                                        width="90%"
+                                        height="330px"
+                                        src="https://www.youtube.com/embed/_GvD8fZryzY"
+                                        frameborder="0">
+                                </iframe>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-4">
+                        <h3>
+                            {{ environment.translate('Frequently Asked Questions') }}
+                        </h3>
+
+                        <section>
+                            <h4>
+                                <a href="//supsystic.com/plugins/social-share-plugin/?utm_source=plugin&utm_medium=welcomepagefaq&utm_campaign=socialbuttons#faq" target="_blank">{{ environment.translate('How to use Social Share Buttons Widget?') }}</a>
+                            </h4>
+                            <ol>
+                                <li>{{ environment.translate('After you create the project – go to “Where to show” section.') }}</li>
+                                <li>{{ environment.translate('Find “Widget” radio button and activate it.') }}</li>
+                                <li>{{ environment.translate('Customize the other options. Don’t forget to click “Save” button.') }}</li>
+                                <li>{{ environment.translate('On the left wordpress navigation menu go to Appearance -> Widgets.') }}</li>
+                                <li>{{ environment.translate('Here find your social share project and add to widget area.') }}</li>
+                            </ol>
+                        </section>
+
+                        <section>
+                            <h4>
+                                <a href="//supsystic.com/plugins/social-share-plugin/?utm_source=plugin&utm_medium=welcomepagefaq&utm_campaign=socialbuttons#faq" target="_blank">{{ environment.translate('How to show Social Buttons in Popup?') }}</a>
+                            </h4>
+                            <ol>
+                                <li>{{ environment.translate('Create new project.') }}</li>
+                                <li>{{ environment.translate('Go to “Main” tab -> “Where to show” section, find “Popup” radio button and activate it.') }}</li>
+                                <li>{{ environment.translate('Customize the other settings. Don’t forget to click “Save” button.') }}</li>
+                                <li>{{ environment.translate('Popup plugin will automatically create the popup window with buttons.') }}</li>
+                            </ol>
+                        </section>
+
+                        <section>
+                            <h4>
+                                <a href="//supsystic.com/plugins/social-share-plugin/?utm_source=plugin&utm_medium=welcomepagefaq&utm_campaign=socialbuttons#faq" target="_blank">{{ environment.translate('All other FAQs') }}</a>
+                            </h4>
+                        </section>
+
+                        <div style="clear: both;"></div>
+                        <a href="{{ start_url }}" class="button button-primary button-hero">{{ environment.translate('Let\'s Start!') }}</a>
+                    </div>
+                </div>
+                <div style="clear: both;"></div>
+            </div>
+        </div>
+    </section>
+{% endblock %}

@@ -1,0 +1,620 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: social_sharing\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Peter Fulopp <fulopppeter@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hu_HU\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "Content lock settings"
+msgstr "Tartalom zárolás beállításai"
+
+msgid "Get PRO"
+msgstr "Pro verzió vásárlása"
+
+msgid "An error has occurred"
+msgstr "Hiba történt"
+
+msgid "Overview"
+msgstr "Áttekintés"
+
+msgid "Add new project"
+msgstr "Új projekt hozzáadása"
+
+msgid "Projects"
+msgstr "Projektek"
+
+msgid "License"
+msgstr "Licensz"
+
+msgid "Settings"
+msgstr "Beállítások"
+
+msgid "Activate License"
+msgstr "Licensz aktiválása"
+
+msgid "Renew License"
+msgstr "Licensz megújítása"
+
+msgid "Congratulations! You have successfully installed and activated PRO version of the plugin."
+msgstr "Gratulálunk! Sikeresen telepítette és aktiválta a bővítmény PRO verzióját"
+
+msgid "Your premium support is expired in %s days"
+msgstr "A prémium támogatás %s nap múlva lejár"
+
+msgid "You will not be able to update your pro version with expired license"
+msgstr "Lejárt licensszel nem fogja tudni frissíteni a bővítményt"
+
+msgid "Congratulations! You have successfully installed PRO version of the plugin. Final step to finish Your PRO version setup - is to enter your Email and License Key on this page. This will activate Your copy of software on this site."
+msgstr "Gratulálunk! Sikeresen telepítette és aktiválta a bővítmény PRO verzióját. A telepítés utolsó lépése - írja be az email címét és licensz kulcsát ebbe az oldalba. Ez aktiválja a programot ezen a weblapon."
+
+msgid "Activate"
+msgstr "Licensz aktiválása"
+
+msgid "Share"
+msgstr "Megosztás"
+
+msgid "Mono"
+msgstr "Mono"
+
+msgid "Bordered"
+msgstr "Keretes"
+
+msgid "Livejournal"
+msgstr "Livejournal"
+
+msgid "Customize"
+msgstr "Testreszabás"
+
+msgid "Sidebar customization"
+msgstr "Oldal-sáv testreszabása"
+
+msgid "Bacground color"
+msgstr "Háttérszín"
+
+msgid "Custom text"
+msgstr "Egyedi szöveg"
+
+msgid "Background opacity"
+msgstr "Háttér átláthatóság"
+
+msgid "Font color"
+msgstr "Betű szín"
+
+msgid "Element class"
+msgstr "Alkotóelem osztálya"
+
+msgid "Additional buttons styles"
+msgstr "További gomb stílusok"
+
+msgid "Error"
+msgstr "Hiba"
+
+msgid "Social Share Buttons Installation"
+msgstr "Közösségi megosztás gombok telepítés"
+
+msgid "One more advantage of Social Share WordPress Plugin is an easy installation. To install it, you should make three following steps:"
+msgstr "A Közösségi megosztás gombok bővítmény egyik előnye a könnyű telepítés. A telepítéshez a következő három lépést kell megtennie:"
+
+msgid "1. Download Social Share Buttons by Supsystic plugin."
+msgstr "1. Töltse le a Supsystic által létrehozott Közösségi megosztás gombok bővítményt"
+
+msgid "2. Upload to your WordPress plugins directory."
+msgstr "2. Töltse fel a WordPress bővítmény könyvtárba."
+
+msgid "3. Activate and enjoy."
+msgstr "3. Kapcsolja be, és élvezze."
+
+msgid "How to use Social Share Buttons plugin?"
+msgstr "Hogyan kell használni a Közösségi megosztás gombokat?"
+
+msgid "Step 1: Creating Responsive Social Share Buttons"
+msgstr "1. lépés: Reszponzív Közösségi megosztás gombok létrehozása"
+
+msgid "1. On the left navigation menu click âAdd new projectâ."
+msgstr "1. A baloldali navigációs menüben kattintson a 'Új project' linkre."
+
+msgid "2. Enter the title of project and click âCreateâ."
+msgstr "2. Írja be a project nevét és kattintson a 'Létrehoz' gombra"
+
+msgid "Step2: Customizing of Social Share by Supsystic"
+msgstr "2. lépés: Supsystic Közösségi megosztása testreszabása"
+
+msgid "More detail information you can find here"
+msgstr "Itt talál erről részletes információkat"
+
+msgid "How to Create Social Share Buttons in WordPress"
+msgstr "Hogyan kell létrehozni Közösségi megosztás gombokat WordPress-ben?"
+
+msgid "How to show Social Buttons in Popup?"
+msgstr "Hogyan kell megjeleníteni Közösségi megosztás gombokat felugró ablakban?"
+
+msgid "You can do it using our awesome Popup plugin!"
+msgstr "Egyszerű, használja a nagyszerű Popup bővítményünket!"
+
+msgid "1. At first, you need to install Popup by Supsystic plugin."
+msgstr "1. Előszöris telepítse a Supsystic Popup bővítményét."
+
+msgid "2. Then come back to the Social Share Buttons plugin and create new project."
+msgstr "2. Ezután jöjjön vissza a Közösségi megosztás gombok bővítményhez, és hozzon létre egy új projectet."
+
+msgid "3. Go to âWhere to showâ section, find âPopupâ radio button and activate it."
+msgstr "3. Lépjen a 'Megjelenítés helye' linkre, és jelölje ki a 'Popup' opciót és kapcsolja be."
+
+msgid "4. Customize the other settings. Donât forget to click âSaveâ button."
+msgstr "4.  További beállítások testreszabása. Ne feledje megnyomni a 'Mentés' gombot"
+
+msgid "5. Popup plugin will automatically create the popup window with buttons."
+msgstr "5. A Popup bővítmény automatikusan létrehozza a felugró ablakot a gombokkal."
+
+msgid "Check all FAQs"
+msgstr "Nézze át a GYIK-et."
+
+msgid "Video tutorial"
+msgstr "Video instrukciók"
+
+msgid "Server Settings"
+msgstr "Szerver beállítások"
+
+msgid "News"
+msgstr "Hírek"
+
+msgid "All news"
+msgstr "Összes hír"
+
+msgid "Contact Form"
+msgstr "Kapcsolat űrlap"
+
+msgid "Name"
+msgstr "Név"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Website"
+msgstr "Weblap"
+
+msgid "Subject"
+msgstr "Téma"
+
+msgid "Topic"
+msgstr "Tárgy"
+
+msgid "Plugin options"
+msgstr "Bővítmény opciók"
+
+msgid "Report a bug"
+msgstr "Hiba jelentése"
+
+msgid "Require a new functionallity"
+msgstr "Új funkcióra van szükség"
+
+msgid "Other"
+msgstr "Egyéb"
+
+msgid "Message"
+msgstr "Üzenet"
+
+msgid "Send email"
+msgstr "Email küldése"
+
+msgid "Toggle"
+msgstr "Átváltás"
+
+msgid "Show all networks"
+msgstr "Hálózatok mutatása"
+
+msgid "Unable to clone project: %s"
+msgstr "Nem tudtuk klónozni a %s projectet"
+
+msgid "Flat"
+msgstr "Sima"
+
+msgid "Selected button set is unavailable for the project \"%s\", \"Flat 1\" will be used."
+msgstr "A kiválasztott gomb szett a \"%s\" projectre nem alkalmas, \"Sima 1\" lesz használva."
+
+msgid "Order by can be %s, \"%s\" given."
+msgstr "A rendezés lehet %s, megadva a \"%s\"."
+
+msgid "Failed to execute query: %s"
+msgstr "Nem sikerült a %s beállítása."
+
+msgid "Adds buttons to the selected side of the page."
+msgstr "Gombok hozzáadása a kiválasztott oldal-sávhoz."
+
+msgid "Buttons will appear at the post or page content."
+msgstr "A gombok az oldal, illetve bejegyzés tartalmánál jelennek meg."
+
+msgid "You need to install %s to use this feature."
+msgstr "Telepíteni kell a %s -t a tulajdonság használatához."
+
+msgid "Creates a widget of the current project at Appearance > Widgets and allows you to use project at theme's widgets areas."
+msgstr "Létrehoz egy widget-et a jelenlegi project megjelenítéséhez > A widget segítségével behelyezhető a sablon widget területeire."
+
+msgid "Allows you to insert project shortcode and show buttons where you want."
+msgstr "Létrehoz egy project shortcode-ot, amellyel tetszés szerinti helyen lehet megjeleníteni."
+
+msgid "Adds space between the buttons %s"
+msgstr "Szóközt helyez be a %s gombok közé."
+
+msgid "Choose the size for social buttons. This option allows you to accent the attention for as much as you want %s"
+msgstr "Válassza ki a közösségi gombok méretét. Ezzel az opcióval akkora %s  figyelemfelkeltést érhet el, amekkorát szeretne."
+
+msgid "Displays counters of social shares on buttons %s"
+msgstr "Megosztás számláló megjelenítése a %s gomboknál."
+
+msgid "Displays counters styles of social shares on buttons %s"
+msgstr "A megosztás számláló stílusa a %s gomboknál."
+
+msgid "Rounds up big numbers of counters and displays the short numbers. Available only with enabled \\\"Display counters\\\" option %s"
+msgstr "Felkerekíti a nagy számokat, és mutatja a kis számokat. Csakis a \\\"Sz'ámláló megjelenítése\\\" %s opció engedélyezésekor működik."
+
+msgid "Gradient mode creates smooth transitions from the one color to another %s"
+msgstr "A Gradiens mód a %s finom, egyik színből a másikba való átfedését eredményezi."
+
+msgid "Adds overlay with shadow for buttons %s"
+msgstr "Árnyékot ad a %s gomboknak."
+
+msgid "Change size for buttons %s"
+msgstr "A %s gombok méretének változtatása."
+
+msgid "Show/hide navigation button for sidebar mode. Allows user to show or hide share buttons"
+msgstr "Megjelenítés/elrejtés navigációt ad az oldal-sáv módhoz. A felhasználó tetszés szerint megjelenítheti, illetve elrejtheti azokat."
+
+msgid "Allows user to display all networks in popup"
+msgstr "Az összes csatorna megjelenítése felugró ablakban."
+
+msgid "Allows you to lock content elements by class name before user shares this page with any network"
+msgstr "Ezzel osztálynév szerint lezárhatja a tartalmi elemeket mielőtt a felhasználó az oldalt megosztaná bármely csatornán."
+
+msgid "Choose pages on which you want to show popup. You can choose \"All Pages\" or specify posts, pages or URLs"
+msgstr "Válassza ki, hogy mit szeretne megjeleníteni a felugró ablakban. Ez lehet \"Összes oldal\", vagy bizonyos bejegyzések, oldalak, illetve URL-ek."
+
+msgid "Choose this option if you don't want to display icons on mobile devices"
+msgstr "Válassza ezt az opciót, ha mobilon nem akarja megjeleníteni az ikonokat."
+
+msgid "Show on all pages"
+msgstr "Megjelenítés minden oldalon"
+
+msgid "Show Social Buttons when page loads"
+msgstr "Az oldal betöltése során jelenjenek meg a közösségi gombok"
+
+msgid "Show Social Buttons when user clicks on page"
+msgstr "Ha a felhasználó rákattint egy oldalra, jelenjenek meg a közösségi gombok"
+
+msgid "ID is not specified."
+msgstr "Nincs meghatározott ID."
+
+msgid "Project not found"
+msgstr "Project nem található"
+
+msgid "Add new"
+msgstr "Új hozzáadása"
+
+msgid "Project title"
+msgstr "Project neve"
+
+msgid "Save"
+msgstr "Mentés"
+
+msgid "Networks to show"
+msgstr "Megjelenített csatornák"
+
+msgid "Add Networks"
+msgstr "Csatorna hozzáadása"
+
+msgid "Saving networks sort order..."
+msgstr "Csatornák sorrendjének mentése..."
+
+msgid "Buttons Design"
+msgstr "Gomb dizájn"
+
+msgid "Choose Template"
+msgstr "Sablon kiválasztása"
+
+msgid "Available in PRO"
+msgstr "Csak a PRO verzióban"
+
+msgid "Preview"
+msgstr "Előnézet"
+
+msgid "Adds space between the buttons."
+msgstr "Szóköz a gombok közé"
+
+msgid "Add button spacing"
+msgstr "Szóköz hozzáadása"
+
+msgid "Choose the size for social buttons. This option allows you to accent the attention for as much as you want it."
+msgstr "Válassza ki a gombok méretét. Ezzel az opcióval emelheti a figyelemfelkeltés szintjét, ha szeretné."
+
+msgid "Buttons size"
+msgstr "Gomb méret"
+
+msgid "Smallest"
+msgstr "Apró"
+
+msgid "Small"
+msgstr "Kicsi"
+
+msgid "Normal"
+msgstr "Átlagos"
+
+msgid "Big"
+msgstr "Nagy"
+
+msgid "Biggest"
+msgstr "Nagyon nagy"
+
+msgid "Displays counters of social shares on buttons."
+msgstr "Megosztás számláló megjelenítése."
+
+msgid "Display counters"
+msgstr "Számláló megjelenítése"
+
+msgid "Counter style"
+msgstr "Számláló stílusa"
+
+msgid "Show counter after the number of shares"
+msgstr "Számláló megjelenítése a megosztások száma alapján"
+
+msgid "Choose from what exactly to count the shares â the all projects, the entire project, the each page."
+msgstr "Számlálás módja - összes project, egész weblap, egyes oldalak."
+
+msgid "Show numbers from"
+msgstr "Megosztások száma innen:"
+
+msgid "The all projects"
+msgstr "Összes project"
+
+msgid "The entire project"
+msgstr "Egész project"
+
+msgid "The each page"
+msgstr "Külön oldalak"
+
+msgid "Rounds up big numbers of counters and displays the short numbers. Available only with enabled \"Display counters\" option."
+msgstr "Felkerekíti a nagy számokat, és mutatja a kis számokat. Csakis a \\\"Sz'ámláló megjelenítése\\\" %s opció engedélyezésekor működik."
+
+msgid "Use short numbers"
+msgstr "Használjon rövid számokat"
+
+msgid "Enable gradient mode"
+msgstr "Gradiens mód"
+
+msgid "Overlay with shadow"
+msgstr "Árnyékolás"
+
+msgid "Change size"
+msgstr "Méret"
+
+msgid "Buttons animation"
+msgstr "Gomb animáció"
+
+msgid "Choose Animation"
+msgstr "Animáció kiválasztása"
+
+msgid "Icons animation"
+msgstr "Ikon animáció"
+
+msgid "Pro designs"
+msgstr "PRO dizájn"
+
+msgid "Where to show"
+msgstr "Megjelenítés helye"
+
+msgid "Sidebar"
+msgstr "Oldal-sáv"
+
+msgid "Top"
+msgstr "Felül"
+
+msgid "Bottom"
+msgstr "Alul"
+
+msgid "Left"
+msgstr "Bal oldal"
+
+msgid "Right"
+msgstr "Jobb oldal"
+
+msgid "Content"
+msgstr "Tartalom"
+
+msgid "Above Content"
+msgstr "Tartalom felett"
+
+msgid "Below Content"
+msgstr "Tartalom alatt"
+
+msgid "Above + Below Content"
+msgstr "Tartalom felett + alatt"
+
+msgid "Popup"
+msgstr "Popup"
+
+msgid "You need to install <a href=\"%s\" target=\"_blank\">Popup by Supsystic</a> to use this feature."
+msgstr "Ehhez telepítenie kell a <a href=\"%s\" target=\"_blank\">Popup by Supsystic</a> bővítményt."
+
+msgid "Widget"
+msgstr "Widget"
+
+msgid "Shortcode or PHP code"
+msgstr "Shortcode vagy PHP kód"
+
+msgid "Show navigation button"
+msgstr "Navigációs gomb megjelenítése"
+
+msgid "Enable Content Lock"
+msgstr "Tartalomzár engedélyezése"
+
+msgid "Content Lock Element Class"
+msgstr "Tartalomzár elem osztálya"
+
+msgid "Show at next pages"
+msgstr "Megjelenítés a további oldalakon"
+
+msgid "Show everywhere"
+msgstr "Megjelenítés mindenhol"
+
+msgid "Homepage only"
+msgstr "Csak a főoldalon"
+
+msgid "Show on next posts / pages"
+msgstr "Megjelenítés a további oldalakon / bejegyséseken"
+
+msgid "Posts"
+msgstr "Bejegyzések"
+
+msgid "All posts"
+msgstr "Összes bejegyzés"
+
+msgid "Pages"
+msgstr "Oldalak"
+
+msgid "All pages"
+msgstr "Összes oldal"
+
+msgid "Hide on mobile devices"
+msgstr "Elrejtés a mobilokon"
+
+msgid "When page loads"
+msgstr "Amikor betölt az oldal"
+
+msgid "User clicks on a page"
+msgstr "Ha a felhasználó kattint az oldalon"
+
+msgid "Select network"
+msgstr "Csatorna kiválasztása"
+
+msgid "Select All"
+msgstr "Összes"
+
+msgid "Select design"
+msgstr "Dizájn"
+
+msgid "Select popup"
+msgstr "Popup választás"
+
+msgid "Currently you haven't any popups. <a style=\"display: inline-block; text-decoration: none !important; padding-left: 5px; padding-right: 5px; margin: 0;\" href=\"%s\" target=\"_blank\" class=\"ui-button\">Create your first PopUp</a> and then just return to this page and select PopUp here."
+msgstr "Jelenleg nincs Popup-ja.  <a style=\"display: inline-block; text-decoration: none !important; padding-left: 5px; padding-right: 5px; margin: 0;\" href=\"%s\" target=\"_blank\" class=\"ui-button\">Első Popup létrehozása</a>, ezután jöjjön vissza erre az oldalra annak kiválasztásához."
+
+msgid "Choose Buttons Design. You can change it later."
+msgstr "Válasszon gomb dizájnt. Ezt később megváltoztathatja."
+
+msgid "Project Name:"
+msgstr "Project neve:"
+
+msgid "Create"
+msgstr "Létrehoz"
+
+msgid "Please, set project name!"
+msgstr "Adjon nevet a projectnek!"
+
+msgid "Please, select button design"
+msgstr "Válasszon gomb dizájnt"
+
+msgid "Selected"
+msgstr "Választott"
+
+msgid "Title"
+msgstr "Név"
+
+msgid "Button Text"
+msgstr "Gomb szöveg"
+
+msgid "Tooltip"
+msgstr "Tipp"
+
+msgid "Add Project"
+msgstr "Project hozzáadása"
+
+msgid "Project Title"
+msgstr "Project neve"
+
+msgid "Total shares"
+msgstr "Összes megosztás"
+
+msgid "Create Date"
+msgstr "Létrehozás dátuma"
+
+msgid "Likes / Shares"
+msgstr "Like-ok / megosztások"
+
+msgid "Actions"
+msgstr "Műveletek"
+
+msgid "Edit project"
+msgstr "Project szerkesztése"
+
+msgid "Edit"
+msgstr "Szerkesztés"
+
+msgid "Currently you haven't any projects"
+msgstr "Jelenleg nincs projectje"
+
+msgid "Enter project name"
+msgstr "Adjon nevet a projectnek"
+
+msgid "Click to rename project and hit [Enter]"
+msgstr "Az átnevezéshez katt ide, majd nyomjon egy [Enter]-t"
+
+msgid "Main"
+msgstr "Fő"
+
+msgid "Design"
+msgstr "Dizájn"
+
+msgid "Effects"
+msgstr "Effektusok"
+
+msgid "Statistic"
+msgstr "Statisztika"
+
+msgid "Clone"
+msgstr "Klón"
+
+msgid "Delete"
+msgstr "Törlés"
+
+msgid "Get Pro"
+msgstr "PRO megvásárlása"
+
+msgid "Return to the project \"%s\""
+msgstr "Visszatérés a %s projecthez"
+
+msgid "Return to the project"
+msgstr "Vissza a projecthez"
+
+msgid "Project \"%s\" statistics"
+msgstr "A %s project statisztikája"
+
+msgid "Network total shares"
+msgstr "Összes csatorna megosztás"
+
+msgid "Total shares for last 30 days"
+msgstr "Megosztás az elmúlt 30 napban"
+
+msgid "Most popular pages for last 30 days"
+msgstr "Az elúlt 30 nap legnépszerűbb oldalai"
+
+msgid "Type"
+msgstr "Tipus"
+
+msgid "Shares"
+msgstr "Megosztások"
+
+msgid "Views"
+msgstr "Megtekintések"
+
+msgid "Views statistic"
+msgstr "Statisztika megtekintése"
+
+msgid "Projects total views"
+msgstr "A project összes megtekintése"

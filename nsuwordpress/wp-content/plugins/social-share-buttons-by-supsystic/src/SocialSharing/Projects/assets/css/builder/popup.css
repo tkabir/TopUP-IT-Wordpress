@@ -1,0 +1,43 @@
+a {
+  overflow: visible !important;
+}
+a.trigger-popup {
+  background-color: #ecf0f1 !important;
+  border-color: #ecf0f1 !important;
+  color: #7f8c8d !important;
+}
+.supsystic-social-sharing-popup {
+  -moz-box-shadow: 5px 5px 10px #333333;
+  -webkit-box-shadow: 5px 5px 10px #333333;
+  height: auto;
+  background-color: #ffffff;
+  border: 1px solid #e6e6e6;
+  box-shadow: 1px 1px 5px #333333;
+  display: none;
+  left: 50%;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  padding-top: 5px;
+  position: fixed;
+  text-align: left;
+  top: 50%;
+  width: 320px;
+  z-index: 1001;
+}
+.supsystic-social-sharing-popup a {
+  display: inline-block !important;
+  margin-right: 4px !important;
+}
+.supsystic-social-sharing-popup a .counter-wrap {
+  display: none;
+}
+.supsystic-social-sharing-popup-overlay {
+  background-color: rgba(0, 0, 0, 0.6);
+  display: none;
+  height: 100%;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 900;
+}

@@ -1,0 +1,40 @@
+{% macro networkSettings(network, data, environment) %}
+    <nav class="network-navigation">
+        <span class="network-nav-item admin-nav-text" data-type="title">
+            {{ environment.translate('Title') }}
+        </span> |
+        <span class="network-nav-item admin-nav-text active" data-type="name">
+            {{ environment.translate('Button Text') }}
+        </span> |
+        <span class="network-nav-item admin-nav-text" data-type="tooltip">
+            {{ environment.translate('Tooltip') }}
+        </span>
+        {% if '{title}' in network.url %}
+         |
+        <span class="network-nav-item admin-nav-text" data-type="text_format">
+            {{ environment.translate('Default message') }}
+        </span>
+        {% endif %}
+        {% if network.class == 'twitter' %}
+         |
+        <span class="network-nav-item admin-nav-text" data-type="use_short_url">
+            {{ environment.translate('Short url') }}
+        </span>
+        {% endif %}
+    </nav>
+
+    <div class="information-container">
+        <input type="text" class="network-title" data-id="{{ network.id }}" value="{{ network.title | default(network.name) }}" hidden>
+        <input type="text" class="network-name" data-id="{{ network.id }}" value="{{ network.text | default(environment.translate('Share')) }}">
+        <input type="text" class="network-tooltip" name="networkTooltip" data-id="{{ network.id }}" value="{{ network.tooltip | default(network.name) }}" hidden/>
+        {% if '{title}' in network.url %}
+        <input type="text" class="network-text_format" name="networkTextFormat" data-id="{{ network.id }}" value="{{ network.text_format | default('[page_title]') }}" hidden/>
+        {% endif %}
+        {% if network.class == 'twitter' %}
+        <div class="field" data-param="use_short_url" data-id="{{ network.id }}">
+            <label>Use short url</label>
+            <input type="checkbox" data-id="{{ network.id }}" class="network-use_short_url" name="networkShortUrl" {% if network.use_short_url %} checked {% endif %} hidden/>
+        </div>
+        {% endif %}
+    </div>
+{% endmacro %}

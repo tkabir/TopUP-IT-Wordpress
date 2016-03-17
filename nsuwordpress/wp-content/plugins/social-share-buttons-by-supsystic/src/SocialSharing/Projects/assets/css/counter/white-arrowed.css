@@ -1,0 +1,141 @@
+.wp-admin .supsystic-social-sharing a.social-sharing-button.counter-white-arrowed {
+  margin-right: 2.91666667em;
+}
+.wp-admin .supsystic-social-sharing a.social-sharing-button.counter-white-arrowed.without-counter {
+  margin-right: 0;
+}
+.supsystic-social-sharing a.social-sharing-button.counter-white-arrowed.sharer-flat-6 .counter-wrap.white-arrowed,
+.supsystic-social-sharing a.social-sharing-button.counter-white-arrowed.sharer-flat-7 .counter-wrap.white-arrowed,
+.supsystic-social-sharing a.social-sharing-button.counter-white-arrowed.sharer-flat-8 .counter-wrap.white-arrowed,
+.supsystic-social-sharing a.social-sharing-button.counter-white-arrowed.sharer-flat-9 .counter-wrap.white-arrowed {
+  left: 7.3125em;
+}
+.supsystic-social-sharing a.social-sharing-button.counter-white-arrowed.sharer-mono-5 .counter-wrap.white-arrowed,
+.supsystic-social-sharing a.social-sharing-button.counter-white-arrowed.sharer-mono-6 .counter-wrap.white-arrowed,
+.supsystic-social-sharing a.social-sharing-button.counter-white-arrowed.sharer-mono-7 .counter-wrap.white-arrowed,
+.supsystic-social-sharing a.social-sharing-button.counter-white-arrowed.sharer-mono-8 .counter-wrap.white-arrowed {
+  left: 6.1125em;
+}
+.supsystic-social-sharing a.social-sharing-button.counter-white-arrowed.sharer-bordered.sharer-bordered-1 .counter-wrap.white-arrowed {
+  bottom: initial;
+  left: initial;
+  right: -2.5em;
+  top: 0.500em;
+}
+.supsystic-social-sharing a.social-sharing-button.counter-white-arrowed.sharer-livejournal.sharer-livejournal-1 .counter-wrap.white-arrowed {
+  bottom: initial;
+  left: 108%;
+  top: 0.500em;
+}
+.supsystic-social-sharing a.social-sharing-button.counter-white-arrowed .counter-wrap.white-arrowed {
+  background: #ffffff;
+  border: 1px solid #bdc3c7;
+  bottom: 0.83em;
+  color: #333333;
+  left: 3.1125em;
+  line-height: 0.8;
+  text-align: center;
+  top: 0.83em;
+}
+.supsystic-social-sharing.supsystic-social-sharing-right a.social-sharing-button.counter-white-arrowed .counter-wrap.white-arrowed {
+    left: -1.3em;
+}
+.supsystic-social-sharing.supsystic-social-sharing-bottom a.social-sharing-button.counter-white-arrowed .counter-wrap.white-arrowed {
+    top: -1.6em;
+    left: 0.95em;
+    bottom: 3.2em;
+}
+.supsystic-social-sharing.supsystic-social-sharing-content a.social-sharing-button.counter-white-arrowed .counter-wrap.white-arrowed {
+    top: -1.6em;
+    left: 0.95em;
+    bottom: 3.2em;
+}
+.supsystic-social-sharing.supsystic-social-sharing-top a.social-sharing-button.counter-white-arrowed .counter-wrap.white-arrowed {
+    left: 0.9em;
+    top: 3.00em;
+    bottom: -1.4em;
+}
+.supsystic-social-sharing a.social-sharing-button.counter-white-arrowed .counter-wrap.white-arrowed:before,
+.supsystic-social-sharing a.social-sharing-button.counter-white-arrowed .counter-wrap.white-arrowed:after {
+  border-bottom: 0.3125em solid transparent;
+  border-right: 0.3125em solid #bdc3c7;
+  border-top: 0.3125em solid transparent;
+  bottom: 0;
+  content: ' ';
+  height: 0;
+  left: -0.3125em;
+  margin: auto;
+  overflow: auto;
+  position: absolute;
+  top: 0;
+  width: 0;
+}
+.supsystic-social-sharing.supsystic-social-sharing-right a.social-sharing-button.counter-white-arrowed .counter-wrap.white-arrowed:before,
+.supsystic-social-sharing.supsystic-social-sharing-right a.social-sharing-button.counter-white-arrowed .counter-wrap.white-arrowed:after {
+    border-bottom: 0.3125em solid transparent;
+    border-left: 0.3125em solid #bdc3c7;
+    border-top: 0.3125em solid transparent;
+    bottom: 0;
+    content: ' ';
+    height: 0;
+    left: 0.9em;
+    margin: auto;
+    overflow: auto;
+    position: absolute;
+    top: 0;
+    width: 0;
+    border-right: none;
+}
+.supsystic-social-sharing.supsystic-social-sharing-bottom a.social-sharing-button.counter-white-arrowed .counter-wrap.white-arrowed:before,
+.supsystic-social-sharing.supsystic-social-sharing-bottom a.social-sharing-button.counter-white-arrowed .counter-wrap.white-arrowed:after,
+.supsystic-social-sharing.supsystic-social-sharing-content a.social-sharing-button.counter-white-arrowed .counter-wrap.white-arrowed:before,
+.supsystic-social-sharing.supsystic-social-sharing-content a.social-sharing-button.counter-white-arrowed .counter-wrap.white-arrowed:after{
+    border-right: none;
+    display: block;
+    border-left: 0.3125em solid transparent;
+    border-right: 0.3125em solid transparent;
+    border-top: 0.3125em solid #bdc3c7;
+    left: 0;
+    right: 0;
+    bottom: -1.6em;
+}
+.supsystic-social-sharing.supsystic-social-sharing-top a.social-sharing-button.counter-white-arrowed .counter-wrap.white-arrowed:before,
+.supsystic-social-sharing.supsystic-social-sharing-top a.social-sharing-button.counter-white-arrowed .counter-wrap.white-arrowed:after {
+    border-right: none;
+    border-left: 0.3125em solid transparent;
+    border-right: 0.3125em solid transparent;
+    border-bottom: 0.3125em solid #bdc3c7;
+    left: 0.16em;
+    top: -1.5em;
+}
+.supsystic-social-sharing a.social-sharing-button.counter-white-arrowed .counter-wrap.white-arrowed:after {
+  border-right-color: #ffffff;
+  left: -0.21875em;
+}
+.supsystic-social-sharing.supsystic-social-sharing-right a.social-sharing-button.counter-white-arrowed .counter-wrap.white-arrowed:after {
+    border-left-color: #ffffff;
+    left: 0.8em;
+    border-right: none;
+}
+.supsystic-social-sharing.supsystic-social-sharing-bottom a.social-sharing-button.counter-white-arrowed .counter-wrap.white-arrowed:after,
+.supsystic-social-sharing.supsystic-social-sharing-content a.social-sharing-button.counter-white-arrowed .counter-wrap.white-arrowed:after{
+    display: block;
+    border-left: 0.3125em solid transparent;
+    border-right: 0.3125em solid transparent;
+    border-top: 0.3125em solid #fff;
+    left: 0;
+    right: 0;
+    bottom: -1.4em;
+}
+.supsystic-social-sharing.supsystic-social-sharing-top a.social-sharing-button.counter-white-arrowed .counter-wrap.white-arrowed:after {
+    border-right: none;
+    border-left: 0.3125em solid transparent;
+    border-right: 0.3125em solid transparent;
+    border-bottom: 0.3125em solid #fff;
+    left: 0.16em;
+    top: -1.28em;
+}
+.supsystic-social-sharing a.social-sharing-button.counter-white-arrowed .counter-wrap.white-arrowed > .counter {
+  font-size: 0.6em;
+  padding: 0 0.41666667em;
+}

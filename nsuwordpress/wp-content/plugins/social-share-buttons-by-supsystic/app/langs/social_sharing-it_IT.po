@@ -1,0 +1,448 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: italian\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: it_IT\n"
+
+msgid "Content lock settings"
+msgstr "Impostazioni per il blocco del contenuto"
+
+msgid "Get PRO"
+msgstr "Ottinei PRO"
+
+msgid "An error has occurred"
+msgstr "Si è verificato un errore"
+
+msgid "Overview"
+msgstr "Panoramica"
+
+msgid "Add new project"
+msgstr "Aggiungi nuovo progetto"
+
+msgid "Projects"
+msgstr "Progetti"
+
+msgid "License"
+msgstr "Licenza"
+
+msgid "Settings"
+msgstr "Impostazioni"
+
+msgid "Activate License"
+msgstr "Attiva licenza"
+
+msgid "Renew License"
+msgstr "Rinnova licenza"
+
+msgid "You will not be able to update your pro version with expired license"
+msgstr "Non sarai in grado di aggiornare la tua versione pro con una licenza scaduta"
+
+msgid "Activate"
+msgstr "Attiva"
+
+msgid "Share"
+msgstr "Condividi"
+
+msgid "Mono"
+msgstr "Mono"
+
+msgid "Bordered"
+msgstr "Delimitata"
+
+msgid "Customize"
+msgstr "personalizza"
+
+msgid "Sidebar customization"
+msgstr "Personalizzazione barra laterale"
+
+msgid "Bacground color"
+msgstr "Colore di fondo"
+
+msgid "Custom text"
+msgstr "Personalizza testo"
+
+msgid "Background opacity"
+msgstr "Opacità dello sfondo"
+
+msgid "Font color"
+msgstr "Colore testo"
+
+msgid "Element class"
+msgstr "Elemento classe"
+
+msgid "Additional buttons styles"
+msgstr "Stili di pulsanti aggiuntivi"
+
+msgid "News"
+msgstr "News (Notizie, Novità)"
+
+msgid "Contact Form"
+msgstr "Modulo di contatto"
+
+msgid "Name"
+msgstr "Nome"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Website"
+msgstr "Sito Internet"
+
+msgid "Subject"
+msgstr "Soggetto"
+
+msgid "Topic"
+msgstr "Argomento"
+
+msgid "Plugin options"
+msgstr "Opzioni Plugin"
+
+msgid "Report a bug"
+msgstr "Riporta un errore"
+
+msgid "Require a new functionallity"
+msgstr "Richiedi una unova funzionalità"
+
+msgid "Other"
+msgstr "Altro"
+
+msgid "Message"
+msgstr "Messaggio"
+
+msgid "Send email"
+msgstr "Manda Email"
+
+msgid "Toggle"
+msgstr "Toggle"
+
+msgid "Show all networks"
+msgstr "Mostra tutte le reti (networks)"
+
+msgid "Unable to clone project: %s"
+msgstr "Impossibile clonare il progetto: %s"
+
+msgid "Flat"
+msgstr "Piatto"
+
+msgid "Selected button set is unavailable for the project \"%s\", \"Flat 1\" will be used."
+msgstr "L'impostazione del pulsante selezionato per il progetto \"%s\" non è disponibile, sarà utilizzato \"Flat 1\""
+
+msgid "Order by can be %s, \"%s\" given."
+msgstr "Ordina per possibilità di essere %s, dato \"%s\""
+
+msgid "Failed to execute query: %s"
+msgstr "Impossibile eseguire la query: %s"
+
+msgid "ID is not specified."
+msgstr "ID non specificata"
+
+msgid "Project not found"
+msgstr "Progetto non trovato"
+
+msgid "Add new"
+msgstr "Aggiungi nuovo"
+
+msgid "Project title"
+msgstr "Titolo progetto"
+
+msgid "Save"
+msgstr "Salva"
+
+msgid "Networks to show"
+msgstr "Networks visibili"
+
+msgid "Add Networks"
+msgstr "Aggiungi Networks"
+
+msgid "Saving networks sort order..."
+msgstr "Salvataggio reti (networks) ordinamento ..."
+
+msgid "Buttons Design"
+msgstr "Design pulsanti"
+
+msgid "Available in PRO"
+msgstr "Disponibile in Pro"
+
+msgid "Preview"
+msgstr "Anteprima"
+
+msgid "Adds space between the buttons."
+msgstr "Aggiungi spazio tra i bottoni"
+
+msgid "Add button spacing"
+msgstr "Aggiungi pulsante spacing"
+
+msgid "Choose the size for social buttons. This option allows you to accent the attention for as much as you want it."
+msgstr "Scegli le dimensioni per i pulsanti sociali. Questa opzione ti permette di evidenziare l'attenzione per quanto si desidera"
+
+msgid "Buttons size"
+msgstr "Dimensione bottoni"
+
+msgid "Smallest"
+msgstr "Piccolissimo"
+
+msgid "Small"
+msgstr "piccolo"
+
+msgid "Normal"
+msgstr "normale"
+
+msgid "Big"
+msgstr "Grande"
+
+msgid "Biggest"
+msgstr "Grandissimo"
+
+msgid "Displays counters of social shares on buttons."
+msgstr "Mostra contatori sui pulsanti di condivisione"
+
+msgid "Display counters"
+msgstr "Mostra contatori"
+
+msgid "Counter style"
+msgstr "Stile contatore"
+
+msgid "Show counter after the number of shares"
+msgstr "Mostra contatore dopo il numero di condivisioni"
+
+msgid "Choose from what exactly to count the shares â€“ the all projects, the entire project, the each page."
+msgstr "Scegli quali condivisioni vuoi contare  â  tutti i progetti, l'intero progetto, la signola pagina"
+
+msgid "Show numbers from"
+msgstr "Mostra numeri da"
+
+msgid "The all projects"
+msgstr "Tutti i progetti"
+
+msgid "The entire project"
+msgstr "L'intero progetto"
+
+msgid "The each page"
+msgstr "La singola pagina"
+
+msgid "Rounds up big numbers of counters and displays the short numbers. Available only with enabled \"Display counters\" option."
+msgstr "Arrotonda per eccesso la conta dei valori  grossi e mostra i valori piccoli. Disponibile solo con l'opzione \"Mostra contatori\" abilitata"
+
+msgid "Use short numbers"
+msgstr "Utilizza valori piccoli"
+
+msgid "Enable gradient mode"
+msgstr "Abilita modalità di sfumatura"
+
+msgid "Overlay with shadow"
+msgstr "Sovrapposizione con ombra"
+
+msgid "Change size"
+msgstr "Cambia dimensione"
+
+msgid "Buttons animation"
+msgstr "Animazione pulsanti"
+
+msgid "Choose Animation"
+msgstr "Scegli animazione"
+
+msgid "Icons animation"
+msgstr "Animazione icone"
+
+msgid "Pro designs"
+msgstr "Pro designs"
+
+msgid "Where to show"
+msgstr "Dove mostrare"
+
+msgid "Sidebar"
+msgstr "Barra laterale"
+
+msgid "Top"
+msgstr "Inizio (pagina)"
+
+msgid "Bottom"
+msgstr "Fondo (pagina)"
+
+msgid "Left"
+msgstr "Sinistra"
+
+msgid "Right"
+msgstr "Destra"
+
+msgid "Content"
+msgstr "Contenuto"
+
+msgid "Above Content"
+msgstr "Sopra il contenuto"
+
+msgid "Below Content"
+msgstr "Sotto il contenuto"
+
+msgid "Above + Below Content"
+msgstr "Sopra + Sotto il contenuto"
+
+msgid "Popup"
+msgstr "Popup (Finestra a comparsa)"
+
+msgid "You need to install <a href=\"%s\" target=\"_blank\">Popup by Supsystic</a> to use this feature."
+msgstr "Installa <a href=\"%s\" target=\"_blank\"> Popup (finestra a comparsa) by Supsystic </a> per utilizzare questa funzione"
+
+msgid "Widget"
+msgstr "Widget"
+
+msgid "Shortcode or PHP code"
+msgstr "Shortcode (codice breve) o codice PHP"
+
+msgid "Show navigation button"
+msgstr "Mostra pulsanti navigazione"
+
+msgid "Enable Content Lock"
+msgstr "Abilita blocca contenuto"
+
+msgid "Content Lock Element Class"
+msgstr "Blocca contenuto elemento di classe"
+
+msgid "Show at next pages"
+msgstr "Mostra nelle pagine successive"
+
+msgid "Show everywhere"
+msgstr "Mostra dappertutto"
+
+msgid "Homepage only"
+msgstr "Solo Homepage"
+
+msgid "Show on next posts / pages"
+msgstr "Mostra sui prossimi articoli/pagine"
+
+msgid "Posts"
+msgstr "Articoli"
+
+msgid "All posts"
+msgstr "Tutti gli articoli"
+
+msgid "Pages"
+msgstr "Pagine"
+
+msgid "All pages"
+msgstr "Tutte le pagine"
+
+msgid "Hide on mobile devices"
+msgstr "Nascondi sui dispositivi portatili"
+
+msgid "When page loads"
+msgstr "Guando la pagina carica"
+
+msgid "User clicks on a page"
+msgstr "Utente clicca sulla pagina"
+
+msgid "Select network"
+msgstr "seleziona network (rete)"
+
+msgid "Select All"
+msgstr "Seleziona tutto"
+
+msgid "Select popup"
+msgstr "Seleziona popup (Finestra a comparsa)"
+
+msgid "Currently you haven't any popups. <a style=\"display: inline-block; text-decoration: none !important; padding-left: 5px; padding-right: 5px; margin: 0;\" href=\"%s\" target=\"_blank\" class=\"ui-button\">Create your first PopUp</a> and then just return to this page and select PopUp here."
+msgstr "Al momento non hai popups. <a style=\"display: inline-block; text-decoration: none !important; padding-left: 5px; padding-right: 5px; margin: 0;\" href=\"%s\" target=\"_blank\" class=\"ui-button\">Crea il tuo primo PopUp</a> poi ritorna in questa pagina e seleziona PopUp qui.."
+
+msgid "Title"
+msgstr "Titolo"
+
+msgid "Button Text"
+msgstr "Testo pulsante"
+
+msgid "Tooltip"
+msgstr "Tooltip (descrizione comando)"
+
+msgid "Add Project"
+msgstr "Aggiungi progetto"
+
+msgid "Project Title"
+msgstr "Titolo progetto"
+
+msgid "Total shares"
+msgstr "Condivisioni totali"
+
+msgid "Create Date"
+msgstr "Data creato/a"
+
+msgid "Likes / Shares"
+msgstr "Likes / Condivisioni"
+
+msgid "Actions"
+msgstr "Azioni"
+
+msgid "Edit project"
+msgstr "Modifica progetto"
+
+msgid "Edit"
+msgstr "Modifica"
+
+msgid "Currently you haven't any projects"
+msgstr "Al momento non hai nessun progetto"
+
+msgid "Enter project name"
+msgstr "Immetti nome progetto"
+
+msgid "Click to rename project and hit [Enter]"
+msgstr "Clicca per cambiare nome al progetto e premi [Invio]"
+
+msgid "Main"
+msgstr "Principale"
+
+msgid "Design"
+msgstr "Design"
+
+msgid "Effects"
+msgstr "Effetti"
+
+msgid "Statistic"
+msgstr "Statistiche"
+
+msgid "Clone"
+msgstr "Clona"
+
+msgid "Delete"
+msgstr "Cancella"
+
+msgid "Get Pro"
+msgstr "Ottinei PRO"
+
+msgid "Return to the project \"%s\""
+msgstr "Ritorna al progetto \"%s\""
+
+msgid "Return to the project"
+msgstr "Ritorna al progetto"
+
+msgid "Project \"%s\" statistics"
+msgstr "Progetto  \"%s\" statistiche"
+
+msgid "Network total shares"
+msgstr "Condivisioni totali network (rete)"
+
+msgid "Total shares for last 30 days"
+msgstr "Condivisioni totali negli ultimi 30 giorni"
+
+msgid "Most popular pages for last 30 days"
+msgstr "Pagine più popolari negli ultimi 30 giorni"
+
+msgid "Type"
+msgstr "Tipo"
+
+msgid "Shares"
+msgstr "Condivisioni"
+
+msgid "Views"
+msgstr "Visualizzazioni"
+
+msgid "Views statistic"
+msgstr "Statistiche visualizzazioni"
+
+msgid "Projects total views"
+msgstr "Visualizzazioni totali progetti "

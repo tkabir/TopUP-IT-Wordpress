@@ -1,0 +1,272 @@
+.supsystic-plugin .overtable-buttons {
+    margin-bottom: 10px;
+}
+
+.supsystic-plugin .overtable-buttons .regular-text {
+    width: 300px;
+}
+
+.supsystic-plugin .overtable-buttons .layer {
+    display: inline-block;
+}
+
+.supsystic-plugin .overtable-buttons h2 { outline: none;
+    display: inline-block;
+    position: relative;
+    top: 3px;
+    border-bottom: 1px solid #ccc;
+    margin: 0;
+    vertical-align: bottom;
+    margin-bottom: 3px;
+}
+
+.supsystic-plugin li {
+    margin-bottom: 14px;
+}
+
+.supsystic-plugin .supsystic-social-sharing .iradio_minimal {
+    position: absolute !important;
+    top: 46px;
+    left: -16px;
+    z-index: 2;
+}
+
+.supsystic-plugin .overtable-buttons .layer .button {
+    margin-left: 5px;
+}
+
+.supsystic-plugin .admin-nav-button {
+    border: 1px solid #ccc;
+    background: #fff;
+    line-height: 16px;
+    display: inline-block;
+    text-decoration: none;
+    margin-right: -3px;
+    color: #000;
+    font-size: 16px;
+    padding: 10px 20px;
+    font-weight: 800;
+    position: relative;
+    top: 1px;
+    outline: none !important;
+}
+
+.supsystic-plugin .admin-nav-button.active {
+        background-color: #fff !important;
+        border-bottom-color: #fff;
+}
+
+.supsystic-plugin .admin-nav-button:hover {
+    background-color: #ccc !important;
+}
+
+.supsystic-plugin .admin-nav-button.network-nav-item {
+    padding: 8px 10px !important;
+    border: 1px solid #000;
+    margin-right: 5px;
+    background-color: #fff;
+    font-size: 1em;
+}
+.supsystic-plugin .admin-nav-text{
+    font-size: 0.80em;
+}
+.supsystic-plugin .admin-nav-text.active {
+    font-weight: bold;
+}
+
+.supsystic-plugin .admin-nav-text:hover {
+    color: #4ae8ea !important;
+    font-weight: bold;
+}
+
+.supsystic-plugin .projects .title {
+    width: 60%;
+}
+
+.supsystic-plugin .projects .likes {
+    text-align: center;
+}
+
+.supsystic-plugin .projects .actions {
+    text-align: center;
+}
+
+.supsystic-plugin .form-table.form th {
+    font-weight: normal;
+    font-size: 15px;
+    padding-left: 10px;
+}
+
+.supsystic-plugin .scroll {
+    padding: 30px;
+    float: left;
+    width: 100%;
+}
+
+.supsystic-plugin .scroll[data-navigation="main"] {
+    width: 33%;
+}
+
+.supsystic-plugin .scroll ul ul {
+    padding-left: 20px;
+}
+
+.supsystic-plugin .networks {
+    margin-top: 10px;
+}
+
+.supsystic-plugin .network {
+    background-color: #fff;
+    /*border: 1px solid #000;*/
+    padding: 10px;
+    margin: 0 0 10px 0;
+    cursor: pointer;
+}
+
+.supsystic-plugin .network:hover {
+    /*background-color: #b9b9b9 !important;*/
+}
+
+.supsystic-plugin .network .delete {
+    color: #e74c3c;
+    margin-right: 7px;
+}
+
+.supsystic-plugin .network .delete:hover {
+    color: red;
+}
+
+.supsystic-plugin .network .settings {
+    display: inline-block;
+    float: right;
+}
+
+.supsystic-plugin .network .settings a {
+    color: #7f8c8d;
+}
+
+.supsystic-plugin .networks .network .network-title {
+    /*font-weight: bold;*/
+    /*color: #000;*/
+    /*font-size: 15px;*/
+}
+
+.supsystic-plugin .networks .network input {
+    width: 100%;
+}
+
+.supsystic-plugin .wp-list-table [scope="col"] {
+    font-weight: bold;
+}
+
+.supsystic-plugin .projects {
+    border: none !important;
+}
+
+.supsystic-plugin .projects .views, .supsystic-plugin .projects .shares {
+    text-align: center;
+}
+
+.supsystic-plugin .pro-url {
+    font-size: 10px !important;
+}
+
+.choose-effect-buttons,
+.choose-effect-icons {
+    opacity: .4;
+}
+
+.choose-effect-buttons:hover,
+.choose-effect-icons:hover {
+    opacity: 1;
+}
+
+.choose-effect-buttons.current-effect,
+.choose-effect-icons.current-effect {
+    opacity: 1;
+}
+
+.anim-d .wrapper {
+    width: 50%;
+    float: left;
+}
+
+.supsystic-social-sharing-preview {
+    width: 100%;
+}
+
+.supsystic-social-sharing-preview th {
+    width: 100%;
+    line-height: 0.9;
+}
+
+.supsystic-social-sharing-preview a {
+    margin-top: 32px;
+}
+
+.button-design-preview-wrapper{
+    padding: 0 40px;
+    text-align: center;
+}
+
+.button-design-preset .button-design-preset-overlay {
+    width: 100%;
+    height: 30%;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    text-align: center;
+    opacity: 0.0;
+    -moz-transition: all 500ms;
+    -ms-transition: all 500ms;
+    -o-transition: all 500ms;
+    transition: all 500ms;
+    background-color: #EBEBEB;
+}
+
+.button-design-preset:hover .button-design-preset-overlay {
+    opacity: 1.0;
+}
+.button-design-preset.not-pro:hover img {
+    outline: none;
+    opacity: 0.2;
+}
+
+.button-design-preset img {
+    cursor: pointer;
+}
+
+.button-design-preset.active .button-design-preset-overlay {
+    opacity: 1.0;
+    height: 100%;
+    background-color: rgba(235, 235, 235, 0.54);
+}
+
+.selected-button-design-preset {
+    display: none;
+    background-color: #4ae8ea;
+    padding: 5px 10px;
+}
+
+.button-design-preset.active .selected-button-design-preset {
+    display: inline;
+}
+.button-design-preset.active .button-select {
+    display: none;
+}
+.wp-core-ui .button-primary {
+    text-shadow: none;
+}
+
+.information-container .field {
+    margin-top: 10px;
+}
+
+.information-container .field [type="checkbox"] {
+    width: auto !important;
+    margin-left: 10px;
+}
+
+.information-container .field .icheckbox_minimal {
+    margin-left: 10px;
+}

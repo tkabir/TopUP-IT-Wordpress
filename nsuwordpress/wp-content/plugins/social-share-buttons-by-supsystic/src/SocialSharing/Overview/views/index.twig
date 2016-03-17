@@ -1,0 +1,153 @@
+{% extends 'layout.twig' %}
+
+{% block content %}
+    <div class="supsystic-overview" style="background-color: #ffffff;">
+        <div class="half-page-left">
+            {#<h3>Gallery by Supsystic</h3>
+            <div class="description">
+                This plugin can easily build a bright gallery especially, if you are a photographer or a designer, Grid Gallery will be useful for you because you will be able to present your works in an unusual way. It is enough to install the plugin once, and it will work for you all the time, creating a beautiful collection of your best photos. The only thing you need to do is to set the preferred parameters of the WordPress grid gallery.
+            </div>#}
+            <h3>FAQ and Documentation</h3>
+            <div class="faq-list">
+                <div class="faq-title">
+                    <i class="fa fa-info-circle"></i>
+                    {{ environment.translate('Social Share Buttons Installation') }}
+                    <div class="description" hidden>
+                        <p>{{ environment.translate('One more advantage of Social Share WordPress Plugin is an easy installation. To install it, you should make three following steps:') }}</p>
+                        <p>{{ environment.translate('1. Download Social Share Buttons by Supsystic plugin.') }}</p>
+                        <p>{{ environment.translate('2. Upload to your WordPress plugins directory.') }}</p>
+                        <p>{{ environment.translate('3. Activate and enjoy.') }}</p>
+                    </div>
+                </div>
+                <div class="faq-title">
+                    <i class="fa fa-info-circle"></i>
+                    {{ environment.translate('How to use Social Share Buttons plugin?') }}
+                    <div class="description" hidden>
+                        <p>{{ environment.translate('Step 1: Creating Responsive Social Share Buttons') }}</p>
+                        <p>{{ environment.translate('1. On the left navigation menu click “Add new project”.') }}</p>
+                        <p>{{ environment.translate('2. Enter the title of project and click “Create”.') }}</p>
+                        <p>{{ environment.translate('Step2: Customizing of Social Share by Supsystic') }}</p>
+                        <p>{{ environment.translate('More detail information you can find here') }} – <a href="http://supsystic.com/how-to-create-social-share-buttons-in-wordpress/">{{ environment.translate('How to Create Social Share Buttons in WordPress') }}</a></p>
+                    </div>
+                </div>
+                <div class="faq-title">
+                    <i class="fa fa-info-circle"></i>
+                    {{ environment.translate('How to show Social Buttons in Popup?') }}}}
+                    <div class="description" hidden>
+                        {{ environment.translate('You can do it using our awesome Popup plugin!') }}
+                        <p>{{ environment.translate('1. At first, you need to install Popup by Supsystic plugin.') }}</p>
+                        <p>{{ environment.translate('2. Then come back to the Social Share Buttons plugin and create new project.') }}</p>
+                        <p>{{ environment.translate('3. Go to “Where to show” section, find “Popup” radio button and activate it.') }}</p>
+                        <p>{{ environment.translate('4. Customize the other settings. Don’t forget to click “Save” button.') }}</p>
+                        <p>{{ environment.translate('5. Popup plugin will automatically create the popup window with buttons.') }}</p>
+                    </div>
+                </div>
+                <a href="http://supsystic.com/plugins/social-share-plugin/#faq" class="button button-primary button-hero">
+                    <i class="fa fa-info-circle"></i>
+                    {{ environment.translate('Check all FAQs') }}
+                </a>
+            </div>
+
+            <div class="video">
+                <h3>{{ environment.translate('Video tutorial') }}</h3>
+                <iframe type="text/html"
+                        width="80%"
+                        height="240px"
+                        src="http://www.youtube.com/embed/_GvD8fZryzY"
+                        frameborder="0">
+                </iframe>
+            </div>
+
+            <div class="server-settings">
+                <h3>{{ environment.translate('Server Settings') }}</h3>
+                <ul class="settings-list">
+                    {% for title, element in serverSettings %}
+                        <li class="settings-line" style="float: none;">
+                            <div class="settings-title">{{ title|trim }}:</div>
+                            <span>{{ element.value|trim }}</span>
+                        </li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+        <div class="half-page-right">
+            <h3>{{ environment.translate('News') }}</h3>
+            <div class="supsystic-overview-news">
+                {{ news|raw }}
+            </div>
+            <p style="border-bottom: 1px solid rgba(164, 170, 172, 0.28); padding-bottom: 20px;">
+                <a href="http://supsystic.com/plugins/social-share-plugin/" class="button button-primary button-hero" style="color: #000000;">
+                    <i class="fa fa-info-circle"></i>
+                    {{ environment.translate('All news') }}
+                </a>
+            </p>
+
+            <div class="overview-contact-form">
+                <h3>{{ environment.translate('Contact Form') }}</h3>
+                {#<div class="description">Translate plugin in your language and get a Premium license for FREE</div>#}
+
+                {% import '@overview/form.twig' as form %}
+
+                {{ form.open('post', environment.generateUrl('overview', 'sendMail'), { 'id': 'form-settings', 'style': 'width: 100%;' }) }}
+
+                <table class="contact-form-table" style="width: 100%;">
+                    <thead>
+
+                    {{ form.row(environment.translate('Name'),
+                        form.text('mail[name]', '', { 'style': { 'width': 'auto;' } })) }}
+
+                    {{ form.row(environment.translate('Email'),
+                        form.text('mail[email]', user.user_email , { 'style': { 'width': 'auto;' } })
+                    ) }}
+
+                    {{ form.row(environment.translate('Website'),
+                        form.text('mail[website]', user.url, { 'style': { 'width': 'auto;' } })) }}
+
+                    {{ form.row(environment.translate('Subject'),
+                        form.text('mail[subject]', '', { 'style': { 'width': 'auto;' } })) }}
+
+                    <tr>
+                        <th scope="row">
+                            <label for="select-question">{{ environment.translate('Topic') }}</label>
+                        </th>
+                        <td>
+                            <select id="select-question" style="width: 207px;" name="mail[question]">
+                                <option value="plugin_options">
+                                    {{ environment.translate('Plugin options') }}
+                                </option>
+                                <option value="bug">
+                                    {{ environment.translate('Report a bug') }}
+                                </option>
+                                <option value="functionallity">
+                                    {{ environment.translate('Require a new functionallity') }}
+                                </option>
+                                <option value="other">
+                                    {{ environment.translate('Other') }}
+                                </option>
+                            </select>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <th scope="row">
+                            <label for="mail-text">{{ environment.translate('Message') }}</label>
+                        </th>
+                        <td>
+                            <textarea id="mail-text" name="mail[message]" style="width: auto; height: 100px;" placeholder="Hello Supsystic Team!"></textarea>
+                        </td>
+                    </tr>
+
+                    </thead>
+                </table>
+
+                <button id="send-mail" type="submit" class="button button-primary button-hero" style="margin-left: 65%;">
+                    <i class="fa fa-upload"></i>
+                    {{ environment.translate('Send email') }}
+                </button>
+
+                {#<div class="required-notification" style="color: red; float: left;" hidden></div>#}
+                {{ form.close() }}
+            </div>
+        </div>
+    </div>
+{% endblock %}

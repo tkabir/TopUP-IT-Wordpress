@@ -1,0 +1,211 @@
+/* Base styles for buttons container */
+
+@import "//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css";
+@import "//cdnjs.cloudflare.com/ajax/libs/animate.css/3.2.6/animate.min.css";
+/*@import "buttons/flat.css";*/
+
+/* Standard counter */
+@import "counter/standard.css";
+/* Arrowed counter */
+@import "counter/arrowed.css";
+/* Right arrowed counter */
+@import "counter/white-arrowed.css";
+
+/* Standard button, required for all other sets */
+@import "button/standard.css";
+/* Button theme: Flat */
+@import "button/flat.css";
+
+
+/*.supsystic-social-sharing.supsystic-social-sharing-spacing > a {*/
+    /*margin-left: 5px;*/
+    /*margin-right: 5px;*/
+/*}*/
+/*.supsystic-social-sharing.supsystic-social-sharing-click {*/
+    /*display: none;*/
+/*}*/
+/*.supsystic-social-sharing.supsystic-social-sharing-fixed {*/
+    /*position: fixed;*/
+    /*text-align: center;*/
+/*}*/
+/*.supsystic-social-sharing.supsystic-social-sharing-fixed.supsystic-social-sharing-left {*/
+    /*left: 0;*/
+    /*top: 50%;*/
+    /*z-index: 999;*/
+/*}*/
+/*.supsystic-social-sharing.supsystic-social-sharing-fixed.supsystic-social-sharing-right {*/
+    /*right: 0;*/
+    /*top: 50%;*/
+    /*z-index: 999;*/
+/*}*/
+/*.supsystic-social-sharing.supsystic-social-sharing-fixed.supsystic-social-sharing-top {*/
+    /*top: 0;*/
+    /*left: 0;*/
+    /*right: 0;*/
+    /*z-index: 999;*/
+/*}*/
+/*.supsystic-social-sharing.supsystic-social-sharing-fixed.supsystic-social-sharing-bottom {*/
+    /*bottom: 0;*/
+    /*left: 0;*/
+    /*right: 0;*/
+    /*z-index: 999;*/
+/*}*/
+/*.supsystic-social-sharing.supsystic-social-sharing-fixed.supsystic-social-sharing-top.supsystic-social-sharing-adminbar {*/
+    /*top: 35px;*/
+/*}*/
+/*.supsystic-social-sharing.supsystic-social-sharing-left.supsystic-social-sharing-spacing a,*/
+/*.supsystic-social-sharing.supsystic-social-sharing-right.supsystic-social-sharing-spacing a {*/
+    /*margin-bottom: 5px;*/
+/*}*/
+
+/*.supsystic-container .sharer-flat.animated.difuz:hover,*/
+/*.supsystic-social-sharing .sharer-flat.animated.difuz:hover{*/
+    /*width: 30px;*/
+    /*transition: 800ms;*/
+/*}*/
+
+/*.supsystic-social-sharing .nav-button {*/
+    /*font-size: 16px !important;*/
+    /*line-height: 22px !important;*/
+    /*background: rgba(0, 0, 0, 0.3);*/
+    /*height: 24px;*/
+    /*width: 24px;*/
+    /*display: block;*/
+    /*cursor: pointer;*/
+    /*margin: 8px 0 0 8px !important;*/
+    /*border-radius: 12px;*/
+    /*color: #ffffff;*/
+    /*opacity: 0.0;*/
+    /*transition: 1s;*/
+/*}*/
+
+/*.supsystic-social-sharing .nav-button.show {*/
+    /*opacity: 1.0 !important;*/
+/*}*/
+
+/*.supsystic-social-sharing:hover .nav-button {*/
+    /*opacity: 1.0;*/
+/*}*/
+
+/*.supsystic-social-sharing:hover .nav-button:hover {*/
+    /*background: #000000;*/
+/*}*/
+
+/*.supsystic-social-sharing .nav-button:before {*/
+    /*content: ">";*/
+/*}*/
+
+/*.supsystic-social-sharing .nav-button.show.left*/
+/*.supsystic-social-sharing .nav-button.hide.right {*/
+    /*-webkit-transform: rotate(0deg);*/
+    /*-moz-transform: rotate(0deg);*/
+    /*-o-transform: rotate(0deg);*/
+    /*-ms-transform: rotate(0deg);*/
+    /*transform: rotate(0deg);*/
+/*}*/
+
+/*.supsystic-social-sharing .nav-button.show.right,*/
+/*.supsystic-social-sharing .nav-button.hide.left {*/
+    /*-webkit-transform: rotate(180deg);*/
+    /*-moz-transform: rotate(180deg);*/
+    /*-o-transform: rotate(180deg);*/
+    /*-ms-transform: rotate(180deg);*/
+    /*transform: rotate(180deg);*/
+/*}*/
+
+/*.supsystic-social-sharing .nav-button.show.top,*/
+/*.supsystic-social-sharing .nav-button.hide.bottom {*/
+    /*-webkit-transform: rotate(90deg);*/
+    /*-moz-transform: rotate(90deg);*/
+    /*-o-transform: rotate(90deg);*/
+    /*-ms-transform: rotate(90deg);*/
+    /*transform: rotate(90deg);*/
+/*}*/
+
+/*.supsystic-social-sharing .nav-button.show.bottom,*/
+/*.supsystic-social-sharing .nav-button.hide.top {*/
+    /*-webkit-transform: rotate(270deg);*/
+    /*-moz-transform: rotate(270deg);*/
+    /*-o-transform: rotate(270deg);*/
+    /*-ms-transform: rotate(270deg);*/
+    /*transform: rotate(270deg);*/
+/*}*/
+
+/*.supsystic-social-sharing.networks-list-container {*/
+    /*border: 1px solid rgba(0, 0, 0, 0.09);*/
+    /*background-color: #fff;*/
+    /*border-radius: 10px 10px 10px 10px;*/
+    /*box-shadow: 0 0 25px 5px #999;*/
+    /*width: 100%;*/
+    /*text-align: center;*/
+/*}*/
+
+/*.supsystic-social-sharing.networks-list-container.hidden {*/
+    /*display: none !important;*/
+/*}*/
+
+/*.supsystic-social-sharing.networks-list-container a {*/
+    /*margin-right: 5px;*/
+    /*margin-left: 5px;*/
+/*}*/
+
+/*.supsystic-social-sharing .list-button {*/
+    /*cursor: pointer;*/
+/*}*/
+
+/*.supsystic-social-sharing .list-button:before {*/
+    /*content: "...";*/
+/*}*/
+
+/*.supsystic-container .networks-tooltip {*/
+    /*float: right;*/
+    /*width: 130px;*/
+    /*height: 24px;*/
+/*}*/
+
+/*.supsystic-container .pro-buttons {*/
+    /*padding: 10px;*/
+    /*border: 1px solid #c8c8c8;*/
+    /*border-radius: 10px;*/
+    /*display: inline-block;*/
+/*}*/
+
+/*.supsystic-social-sharing.chage-size {*/
+    /*width: auto;*/
+/*}*/
+
+/*.supsystic-social-sharing.chage-size .sharer-flat-2:hover,*/
+/*.supsystic-social-sharing.chage-size .sharer-flat-4:hover {*/
+    /*width: calc(100% - 25%);*/
+/*}*/
+
+.data-sssl {
+    width: 100%;
+    height: 240px;
+    border: 1px solid rgba(0, 0, 0, 0.13);
+    border-radius: 20px;
+    background: rgba(0, 0, 0, 0.05);
+    text-align: center;
+    position: relative;
+    display: none !important;
+}
+
+.data-sssl.show {
+    display: block !important;
+}
+
+.data-sssl i {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 20px;
+}
+.supsystic-social-sharing.supsystic-social-sharing-content-align-center{
+    text-align: center;
+}
+.supsystic-social-sharing.supsystic-social-sharing-content-align-left{
+    text-align: left;
+}
+.supsystic-social-sharing.supsystic-social-sharing-content-align-right{
+    text-align: right;
+}

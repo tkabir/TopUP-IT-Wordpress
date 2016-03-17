@@ -1,0 +1,562 @@
+@import "../buttons/flat/gradient.css";
+.supsystic-social-sharing .sharer-flat {
+  -webkit-transition: all 300ms ease;
+  -moz-transition: all 300ms ease;
+  -o-transition: all 300ms ease;
+  transition: all 300ms ease;
+}
+.supsystic-social-sharing .sharer-flat.pricon {
+  margin-top: 35px;
+}
+.supsystic-social-sharing .sharer-flat.sharer-flat-1 {
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+}
+.supsystic-social-sharing .sharer-flat.sharer-flat-2 {
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+}
+.supsystic-social-sharing .sharer-flat.sharer-flat-3 {
+  -webkit-border-radius: 100%;
+  -moz-border-radius: 100%;
+  border-radius: 100%;
+}
+.supsystic-social-sharing .sharer-flat.sharer-flat-4 {
+  border: 2px solid #000;
+}
+.supsystic-social-sharing .sharer-flat.sharer-flat-4:hover {
+  background: #fff;
+  color: #000;
+}
+.supsystic-social-sharing .sharer-flat.sharer-flat-5 {
+  -webkit-border-top-left-radius: 50%;
+  -webkit-border-bottom-right-radius: 50%;
+  -moz-border-radius-topleft: 50%;
+  -moz-border-radius-bottomright: 50%;
+  border-top-left-radius: 50%;
+  border-bottom-right-radius: 50%;
+}
+.supsystic-social-sharing .sharer-flat.sharer-flat-6,
+.supsystic-social-sharing .sharer-flat.sharer-flat-7,
+.supsystic-social-sharing .sharer-flat.sharer-flat-8,
+.supsystic-social-sharing .sharer-flat.sharer-flat-9 {
+  width: 7em;
+  text-align: center;
+  margin-bottom: 5px;
+}
+.supsystic-social-sharing .sharer-flat.sharer-flat-7,
+.supsystic-social-sharing .sharer-flat.sharer-flat-9 {
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  border-radius: 6px;
+}
+.supsystic-social-sharing .sharer-flat.sharer-flat-8 i,
+.supsystic-social-sharing .sharer-flat.sharer-flat-9 i {
+  width: 100%;
+}
+.supsystic-social-sharing .sharer-flat.sharer-flat-8 i span,
+.supsystic-social-sharing .sharer-flat.sharer-flat-9 i span {
+  margin-left: 5px;
+}
+.supsystic-social-sharing .sharer-flat.twitter {
+  background-color: #83c3f3;
+}
+.supsystic-social-sharing .sharer-flat.twitter:hover {
+  background-color: #55acee;
+}
+.supsystic-social-sharing .sharer-flat.twitter.sharer-flat-4 {
+  border-color: #83c3f3;
+}
+.supsystic-social-sharing .sharer-flat.twitter.sharer-flat-4:hover {
+  background-color: #55acee;
+  color: #fff;
+}
+.supsystic-social-sharing .sharer-flat.livejournal {
+  background-color: #2b5780;
+}
+.supsystic-social-sharing .sharer-flat.livejournal:hover {
+  background-color: #1e3d5a;
+}
+.supsystic-social-sharing .sharer-flat.livejournal.sharer-flat-4 {
+  border-color: #2b5780;
+}
+.supsystic-social-sharing .sharer-flat.livejournal.sharer-flat-4:hover {
+  color: #2b5780;
+  background-color: #fff;
+}
+.supsystic-social-sharing .sharer-flat.facebook {
+  background-color: #3b5998;
+}
+.supsystic-social-sharing a.social-sharing-button.sharer-flat.facebook:hover {
+  background-color: #2d4373 !important;
+}
+.supsystic-social-sharing .sharer-flat.facebook.sharer-flat-4 {
+  border-color: #3b5998;
+}
+.supsystic-social-sharing .sharer-flat.facebook.sharer-flat-4:hover {
+  color: #3b5998;
+  background-color: #fff;
+}
+.supsystic-social-sharing .sharer-flat.googleplus {
+  background-color: #dd4b39;
+}
+.supsystic-social-sharing a.social-sharing-button.sharer-flat.googleplus:hover {
+  background-color: #c23321 !important;
+}
+.supsystic-social-sharing .sharer-flat.googleplus.sharer-flat-4 {
+  border-color: #dd4b39;
+}
+.supsystic-social-sharing .sharer-flat.googleplus.sharer-flat-4:hover {
+  color: #dd4b39;
+  background-color: #fff;
+}
+.supsystic-social-sharing .sharer-flat.vk {
+  background-color: #45668e;
+}
+.supsystic-social-sharing a.social-sharing-button.sharer-flat.vk:hover {
+  background-color: #344d6c !important;
+}
+.supsystic-social-sharing .sharer-flat.vk.sharer-flat-4 {
+  border-color: #45668e;
+}
+.supsystic-social-sharing .sharer-flat.vk.sharer-flat-4:hover {
+  color: #45668e;
+  background-color: #fff;
+}
+.supsystic-social-sharing .sharer-flat.like {
+  background-color: #9b59b6;
+}
+.supsystic-social-sharing a.social-sharing-button.sharer-flat.like:hover {
+  background-color: #804399 !important;
+}
+.supsystic-social-sharing .sharer-flat.like.sharer-flat-4 {
+  border-color: #9b59b6;
+}
+.supsystic-social-sharing .sharer-flat.like.sharer-flat-4:hover {
+  color: #9b59b6;
+  background-color: #fff;
+}
+.supsystic-social-sharing .sharer-flat.reddit {
+  background-color: #cee3f8;
+}
+.supsystic-social-sharing a.social-sharing-button.sharer-flat.reddit:hover {
+  background-color: #a1c9f2 !important;
+}
+.supsystic-social-sharing .sharer-flat.reddit.sharer-flat-4 {
+  border-color: #cee3f8;
+}
+.supsystic-social-sharing .sharer-flat.reddit.sharer-flat-4:hover {
+  color: #cee3f8;
+  background-color: #fff;
+}
+.supsystic-social-sharing .sharer-flat.pinterest {
+  background-color: #cc2127;
+}
+.supsystic-social-sharing a.social-sharing-button.sharer-flat.pinterest:hover {
+  background-color: #a01a1f !important;
+}
+.supsystic-social-sharing .sharer-flat.pinterest.sharer-flat-4 {
+  border-color: #cc2127;
+}
+.supsystic-social-sharing .sharer-flat.pinterest.sharer-flat-4:hover {
+  color: #cc2127;
+  background-color: #fff;
+}
+.supsystic-social-sharing .sharer-flat.digg {
+  background-color: #000000;
+}
+.supsystic-social-sharing a.social-sharing-button.sharer-flat.digg:hover {
+  background-color: #1a1a1a !important;
+}
+.supsystic-social-sharing .sharer-flat.digg.sharer-flat-4 {
+  border-color: #000000;
+}
+.supsystic-social-sharing .sharer-flat.digg.sharer-flat-4:hover {
+  color: #000000;
+  background-color: #fff;
+}
+.supsystic-social-sharing .sharer-flat.stumbleupon {
+  background-color: #eb4924;
+}
+.supsystic-social-sharing a.social-sharing-button.sharer-flat.stumbleupon:hover {
+  background-color: #ca3412 !important;
+}
+.supsystic-social-sharing .sharer-flat.stumbleupon.sharer-flat-4 {
+  border-color: #eb4924;
+}
+.supsystic-social-sharing .sharer-flat.stumbleupon.sharer-flat-4:hover {
+  color: #eb4924;
+  background-color: #fff;
+}
+.supsystic-social-sharing .sharer-flat.delicious {
+  background-color: #3399ff;
+}
+.supsystic-social-sharing a.social-sharing-button.sharer-flat.delicious:hover {
+  background-color: #007fff !important;
+}
+.supsystic-social-sharing .sharer-flat.delicious.sharer-flat-4 {
+  border-color: #3399ff;
+}
+.supsystic-social-sharing .sharer-flat.delicious.sharer-flat-4:hover {
+  color: #3399ff;
+  background-color: #fff;
+}
+.supsystic-social-sharing .sharer-flat.odnoklassniki {
+  background-color: #ed812b;
+}
+.supsystic-social-sharing a.social-sharing-button.sharer-flat.odnoklassniki:hover {
+  background-color: #d36812 !important;
+}
+.supsystic-social-sharing .sharer-flat.odnoklassniki.sharer-flat-4 {
+  border-color: #ed812b;
+}
+.supsystic-social-sharing .sharer-flat.odnoklassniki.sharer-flat-4:hover {
+  color: #ed812b;
+  background-color: #fff;
+}
+.supsystic-social-sharing .sharer-flat.linkedin {
+  background-color: #0077b5;
+}
+.supsystic-social-sharing a.social-sharing-button.sharer-flat.linkedin:hover {
+  background-color: #005582 !important;
+}
+.supsystic-social-sharing .sharer-flat.linkedin.sharer-flat-4 {
+  border-color: #0077b5;
+}
+.supsystic-social-sharing .sharer-flat.linkedin.sharer-flat-4:hover {
+  color: #0077b5;
+  background-color: #fff;
+}
+.supsystic-social-sharing .sharer-flat.print {
+  background-color: #122435;
+}
+.supsystic-social-sharing a.social-sharing-button.sharer-flat.print:hover {
+  background-color: #050a0f !important;
+}
+.supsystic-social-sharing .sharer-flat.print.sharer-flat-4 {
+  border-color: #122435;
+}
+.supsystic-social-sharing .sharer-flat.print.sharer-flat-4:hover {
+  color: #122435;
+  background-color: #fff;
+}
+.supsystic-social-sharing .sharer-flat.bookmark {
+  background-color: #ef7053;
+}
+.supsystic-social-sharing a.social-sharing-button.sharer-flat.bookmark:hover {
+  background-color: #eb4924 !important;
+}
+.supsystic-social-sharing .sharer-flat.bookmark.sharer-flat-4 {
+  border-color: #ef7053;
+}
+.supsystic-social-sharing .sharer-flat.bookmark.sharer-flat-4:hover {
+  color: #ef7053;
+  background-color: #fff;
+}
+.supsystic-social-sharing .sharer-flat.mail {
+  background-color: #ed4926;
+}
+.supsystic-social-sharing a.social-sharing-button.sharer-flat.mail:hover {
+  background-color: #cf3311 !important;
+}
+.supsystic-social-sharing .sharer-flat.mail.sharer-flat-4 {
+  border-color: #ed4926;
+}
+.supsystic-social-sharing .sharer-flat.mail.sharer-flat-4:hover {
+  color: #ed4926;
+  background-color: #fff;
+}
+.supsystic-social-sharing .sharer-flat.evernote {
+  background-color: #6ba92f;
+}
+.supsystic-social-sharing a.social-sharing-button.sharer-flat.evernote:hover {
+  background-color: #528124 !important;
+}
+.supsystic-social-sharing .sharer-flat.evernote.sharer-flat-4 {
+  border-color: #6ba92f;
+}
+.supsystic-social-sharing .sharer-flat.evernote.sharer-flat-4:hover {
+  color: #6ba92f;
+  background-color: #fff;
+}
+.supsystic-social-sharing .sharer-flat.whatsapp {
+  background-color: #43C353;
+}
+.supsystic-social-sharing a.social-sharing-button.sharer-flat.whatsapp:hover {
+  background-color: #3CAD4A !important;
+}
+.supsystic-social-sharing .sharer-flat.whatsapp.sharer-flat-4 {
+  border-color: #43C353;
+}
+.supsystic-social-sharing .sharer-flat.whatsapp.sharer-flat-4:hover {
+  color: #43C353;
+  background-color: #fff;
+}
+.supsystic-social-sharing .sharer-flat.tumblr {
+    background-color: #000000;
+}
+.supsystic-social-sharing a.social-sharing-button.sharer-flat.tumblr:hover {
+    background-color: #1a1a1a !important;
+}
+.supsystic-social-sharing .sharer-flat.tumblr.sharer-flat-4 {
+    border-color: #000000;
+}
+.supsystic-social-sharing .sharer-flat.tumblr.sharer-flat-4:hover {
+    color: #000000;
+    background-color: #fff;
+}
+.supsystic-social-sharing[data-change-size="on"] .sharer-flat-6:hover,
+.supsystic-social-sharing[data-change-size="on"] .sharer-flat-7:hover,
+.supsystic-social-sharing[data-change-size="on"] .sharer-flat-8:hover,
+.supsystic-social-sharing[data-change-size="on"] .sharer-flat-9:hover {
+  width: 6em;
+}
+.supsystic-social-sharing[data-overlay="on"] .twitter {
+  background-color: #83c3f3;
+}
+.supsystic-social-sharing[data-overlay="on"] a.sharer-flat.twitter:hover {
+  background-color: #147bc9 !important;
+}
+.supsystic-social-sharing[data-overlay="on"] .twitter.sharer-flat-4 {
+  border-color: #83c3f3;
+}
+.supsystic-social-sharing[data-overlay="on"] .twitter.sharer-flat-4:hover {
+  color: #83c3f3;
+  background-color: #fff;
+}
+.supsystic-social-sharing[data-overlay="on"] .livejournal {
+  background-color: #2b5780;
+}
+.supsystic-social-sharing[data-overlay="on"] a.sharer-flat.livejournal:hover {
+  background-color: #05090d !important;
+}
+.supsystic-social-sharing[data-overlay="on"] .livejournal.sharer-flat-4 {
+  border-color: #2b5780;
+}
+.supsystic-social-sharing[data-overlay="on"] .livejournal.sharer-flat-4:hover {
+  color: #2b5780;
+  background-color: #fff;
+}
+.supsystic-social-sharing[data-overlay="on"] .facebook {
+  background-color: #3b5998;
+}
+.supsystic-social-sharing[data-overlay="on"] a.sharer-flat.facebook:hover {
+  background-color: #10182a !important;
+}
+.supsystic-social-sharing[data-overlay="on"] .facebook.sharer-flat-4 {
+  border-color: #3b5998;
+}
+.supsystic-social-sharing[data-overlay="on"] .facebook.sharer-flat-4:hover {
+  color: #3b5998;
+  background-color: #fff;
+}
+.supsystic-social-sharing[data-overlay="on"] .googleplus {
+  background-color: #dd4b39;
+}
+.supsystic-social-sharing[data-overlay="on"] a.sharer-flat.googleplus:hover {
+  background-color: #6b1c12 !important;
+}
+.supsystic-social-sharing[data-overlay="on"] .googleplus.sharer-flat-4 {
+  border-color: #dd4b39;
+}
+.supsystic-social-sharing[data-overlay="on"] .googleplus.sharer-flat-4:hover {
+  color: #dd4b39;
+  background-color: #fff;
+}
+.supsystic-social-sharing[data-overlay="on"] .vk {
+  background-color: #45668e;
+}
+.supsystic-social-sharing[data-overlay="on"] a.sharer-flat.vk:hover {
+  background-color: #131c27 !important;
+}
+.supsystic-social-sharing[data-overlay="on"] .vk.sharer-flat-4 {
+  border-color: #45668e;
+}
+.supsystic-social-sharing[data-overlay="on"] .vk.sharer-flat-4:hover {
+  color: #45668e;
+  background-color: #fff;
+}
+.supsystic-social-sharing[data-overlay="on"] .like {
+  background-color: #9b59b6;
+}
+.supsystic-social-sharing[data-overlay="on"] a.sharer-flat.like:hover {
+  background-color: #452452 !important;
+}
+.supsystic-social-sharing[data-overlay="on"] .like.sharer-flat-4 {
+  border-color: #9b59b6;
+}
+.supsystic-social-sharing[data-overlay="on"] .like.sharer-flat-4:hover {
+  color: #9b59b6;
+  background-color: #fff;
+}
+.supsystic-social-sharing[data-overlay="on"] .reddit {
+  background-color: #cee3f8;
+}
+.supsystic-social-sharing[data-overlay="on"] a.sharer-flat.reddit:hover {
+  background-color: #4896e5 !important;
+}
+.supsystic-social-sharing[data-overlay="on"] .reddit.sharer-flat-4 {
+  border-color: #cee3f8;
+}
+.supsystic-social-sharing[data-overlay="on"] .reddit.sharer-flat-4:hover {
+  color: #cee3f8;
+  background-color: #fff;
+}
+.supsystic-social-sharing[data-overlay="on"] .pinterest {
+  background-color: #cc2127;
+}
+.supsystic-social-sharing[data-overlay="on"] a.sharer-flat.pinterest:hover {
+  background-color: #480c0e !important;
+}
+.supsystic-social-sharing[data-overlay="on"] .pinterest.sharer-flat-4 {
+  border-color: #cc2127;
+}
+.supsystic-social-sharing[data-overlay="on"] .pinterest.sharer-flat-4:hover {
+  color: #cc2127;
+  background-color: #fff;
+}
+.supsystic-social-sharing[data-overlay="on"] .digg {
+  background-color: #000000;
+}
+.supsystic-social-sharing[data-overlay="on"] a.sharer-flat.digg:hover {
+  background-color: #4d4d4d !important;
+}
+.supsystic-social-sharing[data-overlay="on"] .digg.sharer-flat-4 {
+  border-color: #000000;
+}
+.supsystic-social-sharing[data-overlay="on"] .digg.sharer-flat-4:hover {
+  color: #000000;
+  background-color: #fff;
+}
+.supsystic-social-sharing[data-overlay="on"] .stumbleupon {
+  background-color: #eb4924;
+}
+.supsystic-social-sharing[data-overlay="on"] a.sharer-flat.stumbleupon:hover {
+  background-color: #6c1c0a !important;
+}
+.supsystic-social-sharing[data-overlay="on"] .stumbleupon.sharer-flat-4 {
+  border-color: #eb4924;
+}
+.supsystic-social-sharing[data-overlay="on"] .stumbleupon.sharer-flat-4:hover {
+  color: #eb4924;
+  background-color: #fff;
+}
+.supsystic-social-sharing[data-overlay="on"] .delicious {
+  background-color: #3399ff;
+}
+.supsystic-social-sharing[data-overlay="on"] a.sharer-flat.delicious:hover {
+  background-color: #004c99 !important;
+}
+.supsystic-social-sharing[data-overlay="on"] .delicious.sharer-flat-4 {
+  border-color: #3399ff;
+}
+.supsystic-social-sharing[data-overlay="on"] .delicious.sharer-flat-4:hover {
+  color: #3399ff;
+  background-color: #fff;
+}
+.supsystic-social-sharing[data-overlay="on"] .odnoklassniki {
+  background-color: #ed812b;
+}
+.supsystic-social-sharing[data-overlay="on"] a.sharer-flat.odnoklassniki:hover {
+  background-color: #75390a !important;
+}
+.supsystic-social-sharing[data-overlay="on"] .odnoklassniki.sharer-flat-4 {
+  border-color: #ed812b;
+}
+.supsystic-social-sharing[data-overlay="on"] .odnoklassniki.sharer-flat-4:hover {
+  color: #ed812b;
+  background-color: #fff;
+}
+.supsystic-social-sharing[data-overlay="on"] .linkedin {
+  background-color: #0077b5;
+}
+.supsystic-social-sharing[data-overlay="on"] a.sharer-flat.linkedin:hover {
+  background-color: #00121c !important;
+}
+.supsystic-social-sharing[data-overlay="on"] .linkedin.sharer-flat-4 {
+  border-color: #0077b5;
+}
+.supsystic-social-sharing[data-overlay="on"] .linkedin.sharer-flat-4:hover {
+  color: #0077b5;
+  background-color: #fff;
+}
+.supsystic-social-sharing[data-overlay="on"] .print {
+  background-color: #122435;
+}
+.supsystic-social-sharing[data-overlay="on"] a.sharer-flat.print:hover {
+  background-color: #000000 !important;
+}
+.supsystic-social-sharing[data-overlay="on"] .print.sharer-flat-4 {
+  border-color: #122435;
+}
+.supsystic-social-sharing[data-overlay="on"] .print.sharer-flat-4:hover {
+  color: #122435;
+  background-color: #fff;
+}
+.supsystic-social-sharing[data-overlay="on"] .bookmark {
+  background-color: #ef7053;
+}
+.supsystic-social-sharing[data-overlay="on"] a.sharer-flat.bookmark:hover {
+  background-color: #9b280e !important;
+}
+.supsystic-social-sharing[data-overlay="on"] .bookmark.sharer-flat-4 {
+  border-color: #ef7053;
+}
+.supsystic-social-sharing[data-overlay="on"] .bookmark.sharer-flat-4:hover {
+  color: #ef7053;
+  background-color: #fff;
+}
+.supsystic-social-sharing[data-overlay="on"] .mail {
+  background-color: #ed4926;
+}
+.supsystic-social-sharing[data-overlay="on"] a.sharer-flat.mail:hover {
+  background-color: #711c09 !important;
+}
+.supsystic-social-sharing[data-overlay="on"] .mail.sharer-flat-4 {
+  border-color: #ed4926;
+}
+.supsystic-social-sharing[data-overlay="on"] .mail.sharer-flat-4:hover {
+  color: #ed4926;
+  background-color: #fff;
+}
+.supsystic-social-sharing[data-overlay="on"] .evernote {
+  background-color: #6ba92f;
+}
+.supsystic-social-sharing[data-overlay="on"] a.sharer-flat.evernote:hover {
+  background-color: #1f310e !important;
+}
+.supsystic-social-sharing[data-overlay="on"] .evernote.sharer-flat-4 {
+  border-color: #6ba92f;
+}
+.supsystic-social-sharing[data-overlay="on"] .evernote.sharer-flat-4:hover {
+  color: #43C353;
+  background-color: #fff;
+}
+.supsystic-social-sharing[data-overlay="on"] .whatsapp {
+  background-color: #43C353;
+}
+.supsystic-social-sharing[data-overlay="on"] a.sharer-flat.whatsapp:hover {
+  background-color: #286E31 !important;
+}
+.supsystic-social-sharing[data-overlay="on"] .whatsapp.sharer-flat-4 {
+  border-color: #43C353;
+}
+.supsystic-social-sharing[data-overlay="on"] .whatsapp.sharer-flat-4:hover {
+  color: #43C353;
+  background-color: #fff;
+}
+.supsystic-social-sharing[data-overlay="on"] .tumblr {
+    background-color: #000000;
+}
+.supsystic-social-sharing[data-overlay="on"] a.sharer-flat.tumblr:hover {
+    background-color: #4d4d4d !important;
+}
+.supsystic-social-sharing[data-overlay="on"] .tumblr.sharer-flat-4 {
+    border-color: #000000;
+}
+.supsystic-social-sharing[data-overlay="on"] .tumblr.sharer-flat-4:hover {
+    color: #000000;
+    background-color: #fff;
+}

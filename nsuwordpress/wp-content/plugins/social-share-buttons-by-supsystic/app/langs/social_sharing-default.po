@@ -1,0 +1,609 @@
+msgid "Content lock settings"
+msgstr ""
+
+msgid "Get PRO"
+msgstr ""
+
+msgid "An error has occurred"
+msgstr ""
+
+msgid "Overview"
+msgstr ""
+
+msgid "Add new project"
+msgstr ""
+
+msgid "Projects"
+msgstr ""
+
+msgid "License"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Activate License"
+msgstr ""
+
+msgid "Renew License"
+msgstr ""
+
+msgid "Congratulations! You have successfully installed and activated PRO version of the plugin."
+msgstr ""
+
+msgid "Your premium support is expired in %s days"
+msgstr ""
+
+msgid "You will not be able to update your pro version with expired license"
+msgstr ""
+
+msgid "Congratulations! You have successfully installed PRO version of the plugin. Final step to finish Your PRO version setup - is to enter your Email and License Key on this page. This will activate Your copy of software on this site."
+msgstr ""
+
+msgid "Activate"
+msgstr ""
+
+msgid "Share"
+msgstr ""
+
+msgid "Mono"
+msgstr ""
+
+msgid "Bordered"
+msgstr ""
+
+msgid "Livejournal"
+msgstr ""
+
+msgid "Customize"
+msgstr ""
+
+msgid "Sidebar customization"
+msgstr ""
+
+msgid "Bacground color"
+msgstr ""
+
+msgid "Custom text"
+msgstr ""
+
+msgid "Background opacity"
+msgstr ""
+
+msgid "Font color"
+msgstr ""
+
+msgid "Element class"
+msgstr ""
+
+msgid "Additional buttons styles"
+msgstr ""
+
+msgid "Error"
+msgstr ""
+
+msgid "Social Share Buttons Installation"
+msgstr ""
+
+msgid "One more advantage of Social Share WordPress Plugin is an easy installation. To install it, you should make three following steps:"
+msgstr ""
+
+msgid "1. Download Social Share Buttons by Supsystic plugin."
+msgstr ""
+
+msgid "2. Upload to your WordPress plugins directory."
+msgstr ""
+
+msgid "3. Activate and enjoy."
+msgstr ""
+
+msgid "How to use Social Share Buttons plugin?"
+msgstr ""
+
+msgid "Step 1: Creating Responsive Social Share Buttons"
+msgstr ""
+
+msgid "1. On the left navigation menu click “Add new project”."
+msgstr ""
+
+msgid "2. Enter the title of project and click “Create”."
+msgstr ""
+
+msgid "Step2: Customizing of Social Share by Supsystic"
+msgstr ""
+
+msgid "More detail information you can find here"
+msgstr ""
+
+msgid "How to Create Social Share Buttons in WordPress"
+msgstr ""
+
+msgid "How to show Social Buttons in Popup?"
+msgstr ""
+
+msgid "You can do it using our awesome Popup plugin!"
+msgstr ""
+
+msgid "1. At first, you need to install Popup by Supsystic plugin."
+msgstr ""
+
+msgid "2. Then come back to the Social Share Buttons plugin and create new project."
+msgstr ""
+
+msgid "3. Go to “Where to show” section, find “Popup” radio button and activate it."
+msgstr ""
+
+msgid "4. Customize the other settings. Don’t forget to click “Save” button."
+msgstr ""
+
+msgid "5. Popup plugin will automatically create the popup window with buttons."
+msgstr ""
+
+msgid "Check all FAQs"
+msgstr ""
+
+msgid "Video tutorial"
+msgstr ""
+
+msgid "Server Settings"
+msgstr ""
+
+msgid "News"
+msgstr ""
+
+msgid "All news"
+msgstr ""
+
+msgid "Contact Form"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Website"
+msgstr ""
+
+msgid "Subject"
+msgstr ""
+
+msgid "Topic"
+msgstr ""
+
+msgid "Plugin options"
+msgstr ""
+
+msgid "Report a bug"
+msgstr ""
+
+msgid "Require a new functionallity"
+msgstr ""
+
+msgid "Other"
+msgstr ""
+
+msgid "Message"
+msgstr ""
+
+msgid "Send email"
+msgstr ""
+
+msgid "Toggle"
+msgstr ""
+
+msgid "Show all networks"
+msgstr ""
+
+msgid "Unable to clone project: %s"
+msgstr ""
+
+msgid "Flat"
+msgstr ""
+
+msgid "Selected button set is unavailable for the project \"%s\", \"Flat 1\" will be used."
+msgstr ""
+
+msgid "Order by can be %s, \"%s\" given."
+msgstr ""
+
+msgid "Failed to execute query: %s"
+msgstr ""
+
+msgid "Adds buttons to the selected side of the page."
+msgstr ""
+
+msgid "Buttons will appear at the post or page content."
+msgstr ""
+
+msgid "You need to install %s to use this feature."
+msgstr ""
+
+msgid "Creates a widget of the current project at Appearance > Widgets and allows you to use project at theme\'s widgets areas."
+msgstr ""
+
+msgid "Allows you to insert project shortcode and show buttons where you want."
+msgstr ""
+
+msgid "Adds space between the buttons %s"
+msgstr ""
+
+msgid "Choose the size for social buttons. This option allows you to accent the attention for as much as you want %s"
+msgstr ""
+
+msgid "Displays counters of social shares on buttons %s"
+msgstr ""
+
+msgid "Displays counters styles of social shares on buttons %s"
+msgstr ""
+
+msgid "Rounds up big numbers of counters and displays the short numbers. Available only with enabled \\"Display counters\\" option %s"
+msgstr ""
+
+msgid "Gradient mode creates smooth transitions from the one color to another %s"
+msgstr ""
+
+msgid "Adds overlay with shadow for buttons %s"
+msgstr ""
+
+msgid "Change size for buttons %s"
+msgstr ""
+
+msgid "Show/hide navigation button for sidebar mode. Allows user to show or hide share buttons"
+msgstr ""
+
+msgid "Allows user to display all networks in popup"
+msgstr ""
+
+msgid "Allows you to lock content elements by class name before user share this page with any network"
+msgstr ""
+
+msgid "Choose pages on which you want to show popup. You can choose \"All Pages\" or specify posts, pages or URLs"
+msgstr ""
+
+msgid "Choose this option if you don\'t want to display icons on mobile devices"
+msgstr ""
+
+msgid "Show on all pages"
+msgstr ""
+
+msgid "Show Social Buttons when page loads"
+msgstr ""
+
+msgid "Show Social Buttons when user clicks on page"
+msgstr ""
+
+msgid "ID is not specified."
+msgstr ""
+
+msgid "Project not found"
+msgstr ""
+
+msgid "Add new"
+msgstr ""
+
+msgid "Project title"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Networks to show"
+msgstr ""
+
+msgid "Add Networks"
+msgstr ""
+
+msgid "Saving networks sort order..."
+msgstr ""
+
+msgid "Buttons Design"
+msgstr ""
+
+msgid "Choose Template"
+msgstr ""
+
+msgid "Available in PRO"
+msgstr ""
+
+msgid "Preview"
+msgstr ""
+
+msgid "Adds space between the buttons."
+msgstr ""
+
+msgid "Add button spacing"
+msgstr ""
+
+msgid "Choose the size for social buttons. This option allows you to accent the attention for as much as you want it."
+msgstr ""
+
+msgid "Buttons size"
+msgstr ""
+
+msgid "Smallest"
+msgstr ""
+
+msgid "Small"
+msgstr ""
+
+msgid "Normal"
+msgstr ""
+
+msgid "Big"
+msgstr ""
+
+msgid "Biggest"
+msgstr ""
+
+msgid "Displays counters of social shares on buttons."
+msgstr ""
+
+msgid "Display counters"
+msgstr ""
+
+msgid "Counter style"
+msgstr ""
+
+msgid "Show counter after the number of shares"
+msgstr ""
+
+msgid "Choose from what exactly to count the shares – the all projects, the entire project, the each page."
+msgstr ""
+
+msgid "Show numbers from"
+msgstr ""
+
+msgid "The all projects"
+msgstr ""
+
+msgid "The entire project"
+msgstr ""
+
+msgid "The each page"
+msgstr ""
+
+msgid "Rounds up big numbers of counters and displays the short numbers. Available only with enabled \"Display counters\" option."
+msgstr ""
+
+msgid "Use short numbers"
+msgstr ""
+
+msgid "Enable gradient mode"
+msgstr ""
+
+msgid "Overlay with shadow"
+msgstr ""
+
+msgid "Change size"
+msgstr ""
+
+msgid "Buttons animation"
+msgstr ""
+
+msgid "Choose Animation"
+msgstr ""
+
+msgid "Icons animation"
+msgstr ""
+
+msgid "Pro designs"
+msgstr ""
+
+msgid "Where to show"
+msgstr ""
+
+msgid "Sidebar"
+msgstr ""
+
+msgid "Top"
+msgstr ""
+
+msgid "Bottom"
+msgstr ""
+
+msgid "Left"
+msgstr ""
+
+msgid "Right"
+msgstr ""
+
+msgid "Content"
+msgstr ""
+
+msgid "Above Content"
+msgstr ""
+
+msgid "Below Content"
+msgstr ""
+
+msgid "Above + Below Content"
+msgstr ""
+
+msgid "Popup"
+msgstr ""
+
+msgid "You need to install <a href=\"%s\" target=\"_blank\">Popup by Supsystic</a> to use this feature."
+msgstr ""
+
+msgid "Widget"
+msgstr ""
+
+msgid "Shortcode or PHP code"
+msgstr ""
+
+msgid "Show navigation button"
+msgstr ""
+
+msgid "Enable Content Lock"
+msgstr ""
+
+msgid "Content Lock Element Class"
+msgstr ""
+
+msgid "Show at next pages"
+msgstr ""
+
+msgid "Show everywhere"
+msgstr ""
+
+msgid "Homepage only"
+msgstr ""
+
+msgid "Show on next posts / pages"
+msgstr ""
+
+msgid "Posts"
+msgstr ""
+
+msgid "All posts"
+msgstr ""
+
+msgid "Pages"
+msgstr ""
+
+msgid "All pages"
+msgstr ""
+
+msgid "Hide on mobile devices"
+msgstr ""
+
+msgid "When page loads"
+msgstr ""
+
+msgid "User clicks on a page"
+msgstr ""
+
+msgid "Select network"
+msgstr ""
+
+msgid "Select All"
+msgstr ""
+
+msgid "Select design"
+msgstr ""
+
+msgid "Selected"
+msgstr ""
+
+msgid "Select popup"
+msgstr ""
+
+msgid "Currently you haven\'t any popups. <a style=\"display: inline-block; text-decoration: none !important; padding-left: 5px; padding-right: 5px; margin: 0;\" href=\"%s\" target=\"_blank\" class=\"ui-button\">Create your first PopUp</a> and then just return to this page and select PopUp here."
+msgstr ""
+
+msgid "Choose Buttons Design. You can change it later."
+msgstr ""
+
+msgid "Project Name:"
+msgstr ""
+
+msgid "Create"
+msgstr ""
+
+msgid "Please, set project name!"
+msgstr ""
+
+msgid "Please, select button design"
+msgstr ""
+
+msgid "Select"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "Button Text"
+msgstr ""
+
+msgid "Tooltip"
+msgstr ""
+
+msgid "Add Project"
+msgstr ""
+
+msgid "Project Title"
+msgstr ""
+
+msgid "Total shares"
+msgstr ""
+
+msgid "Create Date"
+msgstr ""
+
+msgid "Likes / Shares"
+msgstr ""
+
+msgid "Actions"
+msgstr ""
+
+msgid "Edit project"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Currently you haven\'t any projects"
+msgstr ""
+
+msgid "Enter project name"
+msgstr ""
+
+msgid "Click to rename project and hit [Enter]"
+msgstr ""
+
+msgid "Main"
+msgstr ""
+
+msgid "Design"
+msgstr ""
+
+msgid "Effects"
+msgstr ""
+
+msgid "Statistic"
+msgstr ""
+
+msgid "Clone"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Get Pro"
+msgstr ""
+
+msgid "Return to the project \"%s\""
+msgstr ""
+
+msgid "Return to the project"
+msgstr ""
+
+msgid "Project \"%s\" statistics"
+msgstr ""
+
+msgid "Network total shares"
+msgstr ""
+
+msgid "Total shares for last 30 days"
+msgstr ""
+
+msgid "Most popular pages for last 30 days"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Shares"
+msgstr ""
+
+msgid "Views"
+msgstr ""
+
+msgid "Views statistic"
+msgstr ""
+
+msgid "Projects total views"
+msgstr ""
+

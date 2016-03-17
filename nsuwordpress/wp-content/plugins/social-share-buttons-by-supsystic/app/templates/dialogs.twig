@@ -1,0 +1,54 @@
+{% macro buttonsAnimation(effects, current) %}
+    <div class="buttons-adnimation-dialog anim-d" title="Choose effect" hidden>
+        <div class="supsystic-social-sharing" data-overlay="{{ project.settings.overlay_with_shadow }}" style="text-align: center; padding: 40px 0; display: block;">
+            {% for effect in effects %}
+                <div class="wrapper">
+                    <a data-animation="{{ effect }}" class="social-sharing-button sharer-flat sharer-flat-1 twitter choose-effect-buttons {% if current == effect %}current-effect{% endif %}" href="javascript:void(0);">
+                        <i class="fa fa-fw fa-twitter icon-animation-preview" data-animation="no-animation"></i>
+                        <!-- /.fa fa-fw fa-twitter -->
+                    </a>
+                    <!-- /.sharer-flat sharer-flat-1 -->
+                    <div>{{ effect }}</div>
+                </div>
+            {% endfor %}
+        </div>
+        <div class="clear"></div>
+    </div>
+{% endmacro %}
+
+{% macro iconsAnimation(effects, current) %}
+    <div class="icons-adnimation-dialog anim-d" title="Choose effect" hidden>
+        <div class="supsystic-social-sharing" data-overlay="{{ project.settings.overlay_with_shadow }}" style="text-align: center; padding: 40px 0; display: block;" >
+            {% for effect in effects %}
+                <div class="wrapper">
+                    <a data-animation="{{ effect }}" class="social-sharing-button sharer-flat sharer-flat-1 twitter choose-effect-icons {% if current == effect %}current-effect{% endif %}" href="javascript:void(0);">
+                        <i class="fa fa-fw fa-twitter"></i>
+                        <!-- /.fa fa-fw fa-twitter -->
+                    </a>
+                    <!-- /.sharer-flat sharer-flat-1 -->
+                    <div>{{ effect }}</div>
+                </div>
+                {#<p style="text-align: center;">{{ effect }}</p>#}
+            {% endfor %}
+        </div>
+        <div class="clear"></div>
+    </div>
+{% endmacro %}
+
+{% macro contentLockPromo() %}
+    <div id="content-lock-dialog-promo" title="{{ environment.translate('Content lock settings') }}" hidden>
+        <div style="line-height: 2; margin: 20px;">Please be advised that this option is available only in
+            <a class="pro-url" href="http://supsystic.com/plugins/social-share-plugin/">PRO version. </a>
+            You can <a class="ui-button" href="http://supsystic.com/plugins/social-share-plugin/" style="padding: 5px 10px;">Get PRO </a>
+            today and get this and other PRO options for your Social Buttons</div>
+    </div>
+{% endmacro %}
+
+{% macro proAd() %}
+    <div id="pro-ad" title="{{ environment.translate('Get PRO') }}" hidden>
+        <div style="line-height: 2; margin: 20px;">Please be advised that this option is available only in
+            <a class="pro-url" href="http://supsystic.com/plugins/social-share-plugin/">PRO version. </a>
+            You can <a class="ui-button" href="http://supsystic.com/plugins/social-share-plugin/" style="padding: 5px 10px;">Get PRO </a>
+            today and get this and other PRO options for your Social Buttons</div>
+    </div>
+{% endmacro %}

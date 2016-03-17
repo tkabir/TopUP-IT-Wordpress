@@ -1,0 +1,10 @@
+#toplevel_page_supsystic-social-sharing .wp-submenu.wp-submenu-wrap .wp-first-item {
+    display: none;
+}
+ul.unordered-list-in-tutorial-tour {
+    list-style: disc;
+    padding: 0 0 0 40px;
+}
+ul.unordered-list-in-tutorial-tour li{
+    margin-bottom: 0;
+}

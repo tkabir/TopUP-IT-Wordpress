@@ -1,0 +1,460 @@
+@import "//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css";
+html body .supsystic-social-sharing {
+  /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
+  /**
+ * 1. Set default font family to sans-serif.
+ * 2. Prevent iOS and IE text size adjust after device orientation change,
+ *    without disabling user zoom.
+ */
+  /**
+ * Remove default margin.
+ */
+  /* HTML5 display definitions
+   ========================================================================== */
+  /**
+ * Correct `block` display not defined for any HTML5 element in IE 8/9.
+ * Correct `block` display not defined for `details` or `summary` in IE 10/11
+ * and Firefox.
+ * Correct `block` display not defined for `main` in IE 11.
+ */
+  /**
+ * 1. Correct `inline-block` display not defined in IE 8/9.
+ * 2. Normalize vertical alignment of `progress` in Chrome, Firefox, and Opera.
+ */
+  /**
+ * Prevent modern browsers from displaying `audio` without controls.
+ * Remove excess height in iOS 5 devices.
+ */
+  /**
+ * Address `[hidden]` styling not present in IE 8/9/10.
+ * Hide the `template` element in IE 8/9/10/11, Safari, and Firefox < 22.
+ */
+  /* Links
+   ========================================================================== */
+  /**
+ * Remove the gray background color from active links in IE 10.
+ */
+  /**
+ * Improve readability of focused elements when they are also in an
+ * active/hover state.
+ */
+  /* Text-level semantics
+   ========================================================================== */
+  /**
+ * Address styling not present in IE 8/9/10/11, Safari, and Chrome.
+ */
+  /**
+ * Address style set to `bolder` in Firefox 4+, Safari, and Chrome.
+ */
+  /**
+ * Address styling not present in Safari and Chrome.
+ */
+  /**
+ * Address variable `h1` font-size and margin within `section` and `article`
+ * contexts in Firefox 4+, Safari, and Chrome.
+ */
+  /**
+ * Address styling not present in IE 8/9.
+ */
+  /**
+ * Address inconsistent and variable font size in all browsers.
+ */
+  /**
+ * Prevent `sub` and `sup` affecting `line-height` in all browsers.
+ */
+  /* Embedded content
+   ========================================================================== */
+  /**
+ * Remove border when inside `a` element in IE 8/9/10.
+ */
+  /**
+ * Correct overflow not hidden in IE 9/10/11.
+ */
+  /* Grouping content
+   ========================================================================== */
+  /**
+ * Address margin not present in IE 8/9 and Safari.
+ */
+  /**
+ * Address differences between Firefox and other browsers.
+ */
+  /**
+ * Contain overflow in all browsers.
+ */
+  /**
+ * Address odd `em`-unit font size rendering in all browsers.
+ */
+  /* Forms
+   ========================================================================== */
+  /**
+ * Known limitation: by default, Chrome and Safari on OS X allow very limited
+ * styling of `select`, unless a `border` property is set.
+ */
+  /**
+ * 1. Correct color not being inherited.
+ *    Known issue: affects color of disabled elements.
+ * 2. Correct font properties not being inherited.
+ * 3. Address margins set differently in Firefox 4+, Safari, and Chrome.
+ */
+  /**
+ * Address `overflow` set to `hidden` in IE 8/9/10/11.
+ */
+  /**
+ * Address inconsistent `text-transform` inheritance for `button` and `select`.
+ * All other form control elements do not inherit `text-transform` values.
+ * Correct `button` style inheritance in Firefox, IE 8/9/10/11, and Opera.
+ * Correct `select` style inheritance in Firefox.
+ */
+  /**
+ * 1. Avoid the WebKit bug in Android 4.0.* where (2) destroys native `audio`
+ *    and `video` controls.
+ * 2. Correct inability to style clickable `input` types in iOS.
+ * 3. Improve usability and consistency of cursor style between image-type
+ *    `input` and others.
+ */
+  /**
+ * Re-set default cursor for disabled elements.
+ */
+  /**
+ * Remove inner padding and border in Firefox 4+.
+ */
+  /**
+ * Address Firefox 4+ setting `line-height` on `input` using `!important` in
+ * the UA stylesheet.
+ */
+  /**
+ * It's recommended that you don't attempt to style these elements.
+ * Firefox's implementation doesn't respect box-sizing, padding, or width.
+ *
+ * 1. Address box sizing set to `content-box` in IE 8/9/10.
+ * 2. Remove excess padding in IE 8/9/10.
+ */
+  /**
+ * Fix the cursor style for Chrome's increment/decrement buttons. For certain
+ * `font-size` values of the `input`, it causes the cursor style of the
+ * decrement button to change from `default` to `text`.
+ */
+  /**
+ * 1. Address `appearance` set to `searchfield` in Safari and Chrome.
+ * 2. Address `box-sizing` set to `border-box` in Safari and Chrome.
+ */
+  /**
+ * Remove inner padding and search cancel button in Safari and Chrome on OS X.
+ * Safari (but not Chrome) clips the cancel button when the search input has
+ * padding (and `textfield` appearance).
+ */
+  /**
+ * Define consistent border, margin, and padding.
+ */
+  /**
+ * 1. Correct `color` not being inherited in IE 8/9/10/11.
+ * 2. Remove padding so people aren't caught out if they zero out fieldsets.
+ */
+  /**
+ * Remove default vertical scrollbar in IE 8/9/10/11.
+ */
+  /**
+ * Don't inherit the `font-weight` (applied by a rule above).
+ * NOTE: the default cannot safely be changed in Chrome and Safari on OS X.
+ */
+  /* Tables
+   ========================================================================== */
+  /**
+ * Remove most spacing between table cells.
+ */
+  font-family: "Lucida Grande", "Lucida Sans", "Lucida Sans Unicode", Verdana, Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  line-height: 1;
+  display: none;
+}
+html body .supsystic-social-sharing html {
+  font-family: sans-serif;
+  /* 1 */
+  -ms-text-size-adjust: 100%;
+  /* 2 */
+  -webkit-text-size-adjust: 100%;
+  /* 2 */
+}
+html body .supsystic-social-sharing body {
+  margin: 0;
+}
+html body .supsystic-social-sharing article,
+html body .supsystic-social-sharing aside,
+html body .supsystic-social-sharing details,
+html body .supsystic-social-sharing figcaption,
+html body .supsystic-social-sharing figure,
+html body .supsystic-social-sharing footer,
+html body .supsystic-social-sharing header,
+html body .supsystic-social-sharing hgroup,
+html body .supsystic-social-sharing main,
+html body .supsystic-social-sharing menu,
+html body .supsystic-social-sharing nav,
+html body .supsystic-social-sharing section,
+html body .supsystic-social-sharing summary {
+  display: block;
+}
+html body .supsystic-social-sharing audio,
+html body .supsystic-social-sharing canvas,
+html body .supsystic-social-sharing progress,
+html body .supsystic-social-sharing video {
+  display: inline-block;
+  /* 1 */
+  vertical-align: baseline;
+  /* 2 */
+}
+html body .supsystic-social-sharing audio:not([controls]) {
+  display: none;
+  height: 0;
+}
+html body .supsystic-social-sharing [hidden],
+html body .supsystic-social-sharing template {
+  display: none;
+}
+html body .supsystic-social-sharing a {
+  background-color: transparent;
+}
+html body .supsystic-social-sharing a:active,
+html body .supsystic-social-sharing a:hover {
+  outline: 0;
+}
+html body .supsystic-social-sharing abbr[title] {
+  border-bottom: 1px dotted;
+}
+html body .supsystic-social-sharing b,
+html body .supsystic-social-sharing strong {
+  font-weight: bold;
+}
+html body .supsystic-social-sharing dfn {
+  font-style: italic;
+}
+html body .supsystic-social-sharing h1 {
+  font-size: 2em;
+  margin: 0.67em 0;
+}
+html body .supsystic-social-sharing mark {
+  background: #ff0;
+  color: #000;
+}
+html body .supsystic-social-sharing small {
+  font-size: 80%;
+}
+html body .supsystic-social-sharing sub,
+html body .supsystic-social-sharing sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+html body .supsystic-social-sharing sup {
+  top: -0.5em;
+}
+html body .supsystic-social-sharing sub {
+  bottom: -0.25em;
+}
+html body .supsystic-social-sharing img {
+  border: 0;
+}
+html body .supsystic-social-sharing svg:not(:root) {
+  overflow: hidden;
+}
+html body .supsystic-social-sharing figure {
+  margin: 1em 40px;
+}
+html body .supsystic-social-sharing hr {
+  box-sizing: content-box;
+  height: 0;
+}
+html body .supsystic-social-sharing pre {
+  overflow: auto;
+}
+html body .supsystic-social-sharing code,
+html body .supsystic-social-sharing kbd,
+html body .supsystic-social-sharing pre,
+html body .supsystic-social-sharing samp {
+  font-family: monospace, monospace;
+  font-size: 1em;
+}
+html body .supsystic-social-sharing button,
+html body .supsystic-social-sharing input,
+html body .supsystic-social-sharing optgroup,
+html body .supsystic-social-sharing select,
+html body .supsystic-social-sharing textarea {
+  color: inherit;
+  /* 1 */
+  font: inherit;
+  /* 2 */
+  margin: 0;
+  /* 3 */
+}
+html body .supsystic-social-sharing button {
+  overflow: visible;
+}
+html body .supsystic-social-sharing button,
+html body .supsystic-social-sharing select {
+  text-transform: none;
+}
+html body .supsystic-social-sharing button,
+html body .supsystic-social-sharing html input[type="button"],
+html body .supsystic-social-sharing input[type="reset"],
+html body .supsystic-social-sharing input[type="submit"] {
+  -webkit-appearance: button;
+  /* 2 */
+  cursor: pointer;
+  /* 3 */
+}
+html body .supsystic-social-sharing button[disabled],
+html body .supsystic-social-sharing html input[disabled] {
+  cursor: default;
+}
+html body .supsystic-social-sharing button::-moz-focus-inner,
+html body .supsystic-social-sharing input::-moz-focus-inner {
+  border: 0;
+  padding: 0;
+}
+html body .supsystic-social-sharing input {
+  line-height: normal;
+}
+html body .supsystic-social-sharing input[type="checkbox"],
+html body .supsystic-social-sharing input[type="radio"] {
+  box-sizing: border-box;
+  /* 1 */
+  padding: 0;
+  /* 2 */
+}
+html body .supsystic-social-sharing input[type="number"]::-webkit-inner-spin-button,
+html body .supsystic-social-sharing input[type="number"]::-webkit-outer-spin-button {
+  height: auto;
+}
+html body .supsystic-social-sharing input[type="search"] {
+  -webkit-appearance: textfield;
+  /* 1 */
+  box-sizing: content-box;
+  /* 2 */
+}
+html body .supsystic-social-sharing input[type="search"]::-webkit-search-cancel-button,
+html body .supsystic-social-sharing input[type="search"]::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
+html body .supsystic-social-sharing fieldset {
+  border: 1px solid #c0c0c0;
+  margin: 0 2px;
+  padding: 0.35em 0.625em 0.75em;
+}
+html body .supsystic-social-sharing legend {
+  border: 0;
+  /* 1 */
+  padding: 0;
+  /* 2 */
+}
+html body .supsystic-social-sharing textarea {
+  overflow: auto;
+}
+html body .supsystic-social-sharing optgroup {
+  font-weight: bold;
+}
+html body .supsystic-social-sharing table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+html body .supsystic-social-sharing td,
+html body .supsystic-social-sharing th {
+  padding: 0;
+}
+html body .supsystic-social-sharing:after {
+  clear: both;
+  content: '.';
+  display: block;
+  height: 0;
+  visibility: hidden;
+}
+html body .supsystic-social-sharing.supsystic-social-sharing-fixed {
+  position: fixed;
+  text-align: center;
+  z-index: 999;
+}
+html body .supsystic-social-sharing.supsystic-social-sharing-fixed a.social-sharing-button {
+  display: block;
+  margin: 0;
+}
+html body .supsystic-social-sharing.supsystic-social-sharing-fixed.supsystic-social-sharing-left {
+  left: 0;
+}
+html body .supsystic-social-sharing.supsystic-social-sharing-fixed.supsystic-social-sharing-left.supsystic-social-sharing-spacing a.social-sharing-button {
+  margin-bottom: 5px;
+  margin-right: 0;
+}
+html body .supsystic-social-sharing.supsystic-social-sharing-fixed.supsystic-social-sharing-right {
+  right: 0;
+}
+html body .supsystic-social-sharing.supsystic-social-sharing-fixed.supsystic-social-sharing-right.supsystic-social-sharing-spacing a.social-sharing-button {
+  margin-bottom: 5px;
+  margin-right: 0;
+}
+html body .supsystic-social-sharing.supsystic-social-sharing-fixed.supsystic-social-sharing-top {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  top: 0;
+  width: 100%;
+}
+html body .supsystic-social-sharing.supsystic-social-sharing-fixed.supsystic-social-sharing-top a.social-sharing-button {
+  display: inline-block;
+  margin-right: 1px;
+}
+html body .supsystic-social-sharing.supsystic-social-sharing-fixed.supsystic-social-sharing-top.supsystic-social-sharing-spacing a.social-sharing-button {
+  display: inline-block;
+  margin: 0 10px 0 0;
+}
+html body .supsystic-social-sharing.supsystic-social-sharing-fixed.supsystic-social-sharing-top.supsystic-social-sharing-adminbar {
+  top: 35px;
+}
+html body .supsystic-social-sharing.supsystic-social-sharing-fixed.supsystic-social-sharing-bottom {
+  bottom: 0;
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  width: 100%;
+}
+html body .supsystic-social-sharing.supsystic-social-sharing-fixed.supsystic-social-sharing-bottom a.social-sharing-button {
+  display: inline-block;
+  margin: 0 1px 10px 0;
+}
+html body .supsystic-social-sharing.supsystic-social-sharing-fixed.supsystic-social-sharing-bottom.supsystic-social-sharing-spacing a.social-sharing-button {
+  display: inline-block;
+  margin: 0 10px 0 0;
+}
+html body .supsystic-social-sharing.supsystic-social-sharing-spacing a.social-sharing-button {
+  margin-right: 1.25em;
+}
+html body .supsystic-social-sharing a.social-sharing-button {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  background-color: #000;
+  border: none;
+  box-sizing: border-box;
+  color: #fff;
+  display: inline-block;
+  font-size: 1em;
+  margin-bottom: 5px;
+  margin-top: 5px;
+  outline: none;
+  padding: 0.83em 0.75em 0.83em 0.75em;
+  position: relative;
+  text-decoration: none;
+}
+html body .supsystic-social-sharing a.social-sharing-button.sharer-flat i{
+    color: #fff;
+}
+html body .supsystic-social-sharing a.social-sharing-button.without-counter .counter-wrap {
+  display: none;
+}
+html body .supsystic-social-sharing a.social-sharing-button i span {
+  font-family: "Lucida Grande", "Lucida Sans", "Lucida Sans Unicode", Verdana, Arial, Helvetica, sans-serif;
+  font-size: 1em !important;
+}
+html body .supsystic-social-sharing a.social-sharing-button .counter-wrap {
+  position: absolute;
+}
+html body .supsystic-social-sharing a.social-sharing-button .counter-wrap > .counter {
+  font-family: "Lucida Grande", "Lucida Sans", "Lucida Sans Unicode", Verdana, Arial, Helvetica, sans-serif;
+}

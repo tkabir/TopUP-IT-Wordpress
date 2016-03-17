@@ -1,0 +1,30 @@
+{%- macro build(project, builder, networks, numOfVariants, hasText = []) -%}
+    {%- for number in 1..numOfVariants -%}
+        {%- set design = builder ~ '-' ~ number -%}
+        <tr class="supsystic-social-sharing supsystic-social-sharing-preview" data-builder="{{ builder }}" style="display: none;">
+            <th scope="row">
+                <input type="radio" name="settings[design]" value="{{ design }}" {% if project.settings.design | default('flat-1') == design %}checked="checked"{% endif %} id="{{ design }}"/>
+                {%- for button in networks -%}
+                    <a class="pricon social-sharing-button sharer-{{ builder }} sharer-{{ design }} {{ button }} counter-{{ project.settings.shares_style | default('standard') }} {% if project.settings.display_total_shares is not defined %}without-counter{% endif %}"
+                       href="javascript:void(0);">
+                        <i class="fa fa-fw fa-{{ button }}">
+                            {% if hasText | length and number in hasText %}
+                                <span>{{- environment.translate('Share') -}}</span>
+                            {% endif %}
+                        </i>
+
+                        <div class="counter-wrap {{ project.settings.shares_style | default('standard') }}">
+                            <span class="counter">
+                                {%- if project.settings.short_numbers == 'on' -%}
+                                    5.7k
+                                {%- else -%}
+                                    5731
+                                {%- endif -%}
+                            </span>
+                        </div>
+                    </a>
+                {%- endfor -%}
+            </th>
+        </tr>
+    {%- endfor -%}
+{%- endmacro -%}

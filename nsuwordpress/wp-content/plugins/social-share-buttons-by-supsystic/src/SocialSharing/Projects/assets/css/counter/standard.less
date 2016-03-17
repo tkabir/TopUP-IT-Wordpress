@@ -1,0 +1,32 @@
+@import "../button/variables.less";
+
+@color-background: #c0392b;
+@color-font: #fff;
+@font-size: 0.5em;
+
+.@{base-selector} {
+  a.@{base-button-selector} {
+    &.counter-standard {
+      .counter-wrap {
+        &.standard {
+          right: -@font-size;
+          top: -@font-size;
+
+          & > .counter {
+            -moz-border-radius: 1.25em;
+            -webkit-border-radius: 1.25em;
+            background-color: @color-background;
+            border-radius: 1.25em;
+            color: @color-font;
+            font-family: "Inconsolata", "Fira Mono", "Source Code Pro", Monaco, Consolas, "Lucida Console", monospace;
+            font-size: @font-size;
+            font-weight: bold;
+            padding: 0.5em 0.875em;
+            right: -@font-size;
+            text-shadow: 1px 1px 0 lighten(@color-background, 10%);
+          }
+        }
+      }
+    }
+  }
+}

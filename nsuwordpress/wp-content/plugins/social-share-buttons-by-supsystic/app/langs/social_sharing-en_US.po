@@ -1,0 +1,263 @@
+msgid ""
+msgstr ""
+
+msgid "An error has occurred"
+msgstr ""
+
+msgid "Add new project"
+msgstr ""
+
+msgid "Projects"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Unable to clone project: %s"
+msgstr ""
+
+msgid "Order by can be %s, \"%s\" given."
+msgstr ""
+
+msgid "Failed to execute query: %s"
+msgstr ""
+
+msgid "Project title"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Networks to show"
+msgstr ""
+
+msgid "Add Networks"
+msgstr ""
+
+msgid "Saving networks sort order..."
+msgstr ""
+
+msgid "Add button spacing"
+msgstr ""
+
+msgid "Buttons size"
+msgstr ""
+
+msgid "Smallest"
+msgstr ""
+
+msgid "Small"
+msgstr ""
+
+msgid "Normal"
+msgstr ""
+
+msgid "Big"
+msgstr ""
+
+msgid "Biggest"
+msgstr ""
+
+msgid "Display counters"
+msgstr ""
+
+msgid "Show numbers from"
+msgstr ""
+
+msgid "The all projects"
+msgstr ""
+
+msgid "The entire project"
+msgstr ""
+
+msgid "The each page"
+msgstr ""
+
+msgid "Use short numbers"
+msgstr ""
+
+msgid "Preview"
+msgstr ""
+
+msgid "Overlay Effects"
+msgstr ""
+
+msgid "Overlay with shadow"
+msgstr ""
+
+msgid "Change size"
+msgstr ""
+
+msgid "Animation"
+msgstr ""
+
+msgid "Buttons animation"
+msgstr ""
+
+msgid "Choose Animation"
+msgstr ""
+
+msgid "Icons animation"
+msgstr ""
+
+msgid "Adds buttons to the selected side of the page."
+msgstr ""
+
+msgid "Sidebar"
+msgstr ""
+
+msgid "Top"
+msgstr ""
+
+msgid "Bottom"
+msgstr ""
+
+msgid "Left"
+msgstr ""
+
+msgid "Right"
+msgstr ""
+
+msgid "Buttons will appear at the post or page content."
+msgstr ""
+
+msgid "Content"
+msgstr ""
+
+msgid "Above Content"
+msgstr ""
+
+msgid "Below Content"
+msgstr ""
+
+msgid "Above + Below Content"
+msgstr ""
+
+msgid "Popup window with buttons using our awesome Popup plugin."
+msgstr ""
+
+msgid "Popup"
+msgstr ""
+
+msgid "You need to install <a href=\"%s\" target=\"_blank\">Popup by Supsystic</a> to use this feature."
+msgstr ""
+
+msgid "Creates a widget of the current project at Appearance > Widgets and allows you to use project at theme's widgets areas."
+msgstr ""
+
+msgid "Widget"
+msgstr ""
+
+msgid "Allows you to insert project shortcode and show buttons where you want."
+msgstr ""
+
+msgid "Shortcode or PHP code"
+msgstr ""
+
+msgid "Show at next pages"
+msgstr ""
+
+msgid "Show everywhere"
+msgstr ""
+
+msgid "Show on next posts / pages"
+msgstr ""
+
+msgid "Posts"
+msgstr ""
+
+msgid "All posts"
+msgstr ""
+
+msgid "Pages"
+msgstr ""
+
+msgid "All pages"
+msgstr ""
+
+msgid "Hide on mobile devices"
+msgstr ""
+
+msgid "When page loads"
+msgstr ""
+
+msgid "User clicks on a page"
+msgstr ""
+
+msgid "Select network"
+msgstr ""
+
+msgid "Select All"
+msgstr ""
+
+msgid "Add Project"
+msgstr ""
+
+msgid "Project Title"
+msgstr ""
+
+msgid "Create Date"
+msgstr ""
+
+msgid "Likes / Shares"
+msgstr ""
+
+msgid "Actions"
+msgstr ""
+
+msgid "Edit project"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Currently you haven't any projects"
+msgstr ""
+
+msgid "Create Project"
+msgstr ""
+
+msgid "Click to rename project and hit [Enter]"
+msgstr ""
+
+msgid "Clone"
+msgstr ""
+
+msgid "Statistic"
+msgstr ""
+
+msgid "Where and what"
+msgstr ""
+
+msgid "Buttons design"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Return to the project \"%s\""
+msgstr ""
+
+msgid "Return to the project"
+msgstr ""
+
+msgid "Project \"%s\" statistics"
+msgstr ""
+
+msgid "Network total shares"
+msgstr ""
+
+msgid "Total shares for last 30 days"
+msgstr ""
+
+msgid "Most popular pages for last 30 days"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Shares"
+msgstr ""

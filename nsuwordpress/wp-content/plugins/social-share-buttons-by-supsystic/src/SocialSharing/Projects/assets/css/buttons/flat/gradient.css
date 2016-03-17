@@ -1,0 +1,252 @@
+.supsystic-social-sharing .sharer-flat.grad.twitter {
+    background-image: -webkit-gradient(
+            linear,
+            left top,
+            left bottom,
+            color-stop(0.26, rgb(60, 0, 255)),
+            color-stop(1, rgb(131, 194, 243))
+    );
+    background-image: -o-linear-gradient(bottom, rgb(60, 0, 255) 26%, rgb(131, 194, 243) 100%);
+    background-image: -moz-linear-gradient(bottom, rgb(60, 0, 255) 26%, rgb(131, 194, 243) 100%);
+    background-image: -webkit-linear-gradient(bottom, rgb(60, 0, 255) 26%, rgb(131, 194, 243) 100%);
+    background-image: -ms-linear-gradient(bottom, rgb(60, 0, 255) 26%, rgb(131, 194, 243) 100%);
+    background-image: linear-gradient(to bottom, rgb(60, 0, 255) 26%, rgb(131, 194, 243) 100%);
+}
+.supsystic-social-sharing .sharer-flat.grad.livejournal {
+    background-image: -webkit-gradient(
+            linear,
+            left top,
+            left bottom,
+            color-stop(0.26, rgb(44, 87, 128)),
+            color-stop(1, rgb(131, 242, 159))
+    );
+    background-image: -o-linear-gradient(bottom, rgb(44, 87, 128) 26%, rgb(131, 242, 159) 100%);
+    background-image: -moz-linear-gradient(bottom, rgb(44, 87, 128) 26%, rgb(131, 242, 159) 100%);
+    background-image: -webkit-linear-gradient(bottom, rgb(44, 87, 128) 26%, rgb(131, 242, 159) 100%);
+    background-image: -ms-linear-gradient(bottom, rgb(44, 87, 128) 26%, rgb(131, 242, 159) 100%);
+    background-image: linear-gradient(to bottom, rgb(44, 87, 128) 26%, rgb(131, 242, 159) 100%);
+}
+.supsystic-social-sharing .sharer-flat.grad.linkedin {
+    background-image: -webkit-gradient(
+            linear,
+            left top,
+            left bottom,
+            color-stop(0.26, rgb(44, 87, 128)),
+            color-stop(1, rgb(242, 131, 131))
+    );
+    background-image: -o-linear-gradient(bottom, rgb(44, 87, 128) 26%, rgb(242, 131, 131) 100%);
+    background-image: -moz-linear-gradient(bottom, rgb(44, 87, 128) 26%, rgb(242, 131, 131) 100%);
+    background-image: -webkit-linear-gradient(bottom, rgb(44, 87, 128) 26%, rgb(242, 131, 131) 100%);
+    background-image: -ms-linear-gradient(bottom, rgb(44, 87, 128) 26%, rgb(242, 131, 131) 100%);
+    background-image: linear-gradient(to bottom, rgb(44, 87, 128) 26%, rgb(242, 131, 131) 100%);
+}
+.supsystic-social-sharing .sharer-flat.grad.facebook {
+    background-image: -webkit-gradient(
+            linear,
+            left top,
+            left bottom,
+            color-stop(0.55, rgb(46, 53, 128)),
+            color-stop(1, rgb(17, 45, 222))
+    );
+    background-image: -o-linear-gradient(bottom, rgb(46, 53, 128) 55%, rgb(17, 45, 222) 100%);
+    background-image: -moz-linear-gradient(bottom, rgb(46, 53, 128) 55%, rgb(17, 45, 222) 100%);
+    background-image: -webkit-linear-gradient(bottom, rgb(46, 53, 128) 55%, rgb(17, 45, 222) 100%);
+    background-image: -ms-linear-gradient(bottom, rgb(46, 53, 128) 55%, rgb(17, 45, 222) 100%);
+    background-image: linear-gradient(to bottom, rgb(46, 53, 128) 55%, rgb(17, 45, 222) 100%);
+}
+.supsystic-social-sharing .sharer-flat.grad.googleplus {
+    background-image: -webkit-gradient(
+            linear,
+            left top,
+            left bottom,
+            color-stop(0.56, rgb(143, 61, 52)),
+            color-stop(1, rgb(228, 116, 101))
+    );
+    background-image: -o-linear-gradient(bottom, rgb(143, 61, 52) 56%, rgb(228, 116, 101) 100%);
+    background-image: -moz-linear-gradient(bottom, rgb(143, 61, 52) 56%, rgb(228, 116, 101) 100%);
+    background-image: -webkit-linear-gradient(bottom, rgb(143, 61, 52) 56%, rgb(228, 116, 101) 100%);
+    background-image: -ms-linear-gradient(bottom, rgb(143, 61, 52) 56%, rgb(228, 116, 101) 100%);
+    background-image: linear-gradient(to bottom, rgb(143, 61, 52) 56%, rgb(228, 116, 101) 100%);
+}
+.supsystic-social-sharing .sharer-flat.grad.vk {
+    background-image: -webkit-gradient(
+            linear,
+            left top,
+            left bottom,
+            color-stop(0.56, rgb(69, 209, 255)),
+            color-stop(0.99, rgb(12, 116, 235))
+    );
+    background-image: -o-linear-gradient(bottom, rgb(69, 209, 255) 56%, rgb(12, 116, 235) 99%);
+    background-image: -moz-linear-gradient(bottom, rgb(69, 209, 255) 56%, rgb(12, 116, 235) 99%);
+    background-image: -webkit-linear-gradient(bottom, rgb(69, 209, 255) 56%, rgb(12, 116, 235) 99%);
+    background-image: -ms-linear-gradient(bottom, rgb(69, 209, 255) 56%, rgb(12, 116, 235) 99%);
+    background-image: linear-gradient(to bottom, rgb(69, 209, 255) 56%, rgb(12, 116, 235) 99%);
+}
+.supsystic-social-sharing .sharer-flat.grad.reddit {
+    background-image: -webkit-gradient(
+            linear,
+            left top,
+            left bottom,
+            color-stop(0.38, rgb(144, 153, 156)),
+            color-stop(0.99, rgb(95, 153, 207))
+    );
+    background-image: -o-linear-gradient(bottom, rgb(144, 153, 156) 38%, rgb(95, 153, 207) 99%);
+    background-image: -moz-linear-gradient(bottom, rgb(144, 153, 156) 38%, rgb(95, 153, 207) 99%);
+    background-image: -webkit-linear-gradient(bottom, rgb(144, 153, 156) 38%, rgb(95, 153, 207) 99%);
+    background-image: -ms-linear-gradient(bottom, rgb(144, 153, 156) 38%, rgb(95, 153, 207) 99%);
+    background-image: linear-gradient(to bottom, rgb(144, 153, 156) 38%, rgb(95, 153, 207) 99%);
+}
+.supsystic-social-sharing .sharer-flat.grad.pinterest {
+    background-image: -webkit-gradient(
+            linear,
+            left top,
+            left bottom,
+            color-stop(0.38, rgb(255, 0, 0)),
+            color-stop(0.99, rgb(38, 38, 38))
+    );
+    background-image: -o-linear-gradient(bottom, rgb(255, 0, 0) 38%, rgb(38, 38, 38) 99%);
+    background-image: -moz-linear-gradient(bottom, rgb(255, 0, 0) 38%, rgb(38, 38, 38) 99%);
+    background-image: -webkit-linear-gradient(bottom, rgb(255, 0, 0) 38%, rgb(38, 38, 38) 99%);
+    background-image: -ms-linear-gradient(bottom, rgb(255, 0, 0) 38%, rgb(38, 38, 38) 99%);
+    background-image: linear-gradient(to bottom, rgb(255, 0, 0) 38%, rgb(38, 38, 38) 99%);
+}
+.supsystic-social-sharing .sharer-flat.grad.digg {
+    background-image: -webkit-gradient(
+            linear,
+            left top,
+            left bottom,
+            color-stop(0.54, rgb(92, 92, 92)),
+            color-stop(0.99, rgb(0, 0, 0))
+    );
+    background-image: -o-linear-gradient(bottom, rgb(92, 92, 92) 54%, rgb(0, 0, 0) 99%);
+    background-image: -moz-linear-gradient(bottom, rgb(92, 92, 92) 54%, rgb(0, 0, 0) 99%);
+    background-image: -webkit-linear-gradient(bottom, rgb(92, 92, 92) 54%, rgb(0, 0, 0) 99%);
+    background-image: -ms-linear-gradient(bottom, rgb(92, 92, 92) 54%, rgb(0, 0, 0) 99%);
+    background-image: linear-gradient(to bottom, rgb(92, 92, 92) 54%, rgb(0, 0, 0) 99%);
+}
+.supsystic-social-sharing .sharer-flat.grad.stumbleupon {
+    background-image: -webkit-gradient(
+            linear,
+            left top,
+            left bottom,
+            color-stop(0.54, rgb(239, 112, 83)),
+            color-stop(0.99, rgb(247, 221, 215))
+    );
+    background-image: -o-linear-gradient(bottom, rgb(239, 112, 83) 54%, rgb(247, 221, 215) 99%);
+    background-image: -moz-linear-gradient(bottom, rgb(239, 112, 83) 54%, rgb(247, 221, 215) 99%);
+    background-image: -webkit-linear-gradient(bottom, rgb(239, 112, 83) 54%, rgb(247, 221, 215) 99%);
+    background-image: -ms-linear-gradient(bottom, rgb(239, 112, 83) 54%, rgb(247, 221, 215) 99%);
+    background-image: linear-gradient(to bottom, rgb(239, 112, 83) 54%, rgb(247, 221, 215) 99%);
+}
+.supsystic-social-sharing .sharer-flat.grad.delicious {
+    background-image: -webkit-gradient(
+            linear,
+            left top,
+            left bottom,
+            color-stop(0.54, rgb(0, 255, 230)),
+            color-stop(0.99, rgb(102, 179, 255))
+    );
+    background-image: -o-linear-gradient(bottom, rgb(0, 255, 230) 54%, rgb(102, 179, 255) 99%);
+    background-image: -moz-linear-gradient(bottom, rgb(0, 255, 230) 54%, rgb(102, 179, 255) 99%);
+    background-image: -webkit-linear-gradient(bottom, rgb(0, 255, 230) 54%, rgb(102, 179, 255) 99%);
+    background-image: -ms-linear-gradient(bottom, rgb(0, 255, 230) 54%, rgb(102, 179, 255) 99%);
+    background-image: linear-gradient(to bottom, rgb(0, 255, 230) 54%, rgb(102, 179, 255) 99%);
+}
+.supsystic-social-sharing .sharer-flat.grad.print {
+    background-image: -webkit-gradient(
+            linear,
+            left top,
+            left bottom,
+            color-stop(0.54, rgb(18, 36, 53)),
+            color-stop(0.99, rgb(81, 99, 117))
+    );
+    background-image: -o-linear-gradient(bottom, rgb(18, 36, 53) 54%, rgb(81, 99, 117) 99%);
+    background-image: -moz-linear-gradient(bottom, rgb(18, 36, 53) 54%, rgb(81, 99, 117) 99%);
+    background-image: -webkit-linear-gradient(bottom, rgb(18, 36, 53) 54%, rgb(81, 99, 117) 99%);
+    background-image: -ms-linear-gradient(bottom, rgb(18, 36, 53) 54%, rgb(81, 99, 117) 99%);
+    background-image: linear-gradient(to bottom, rgb(18, 36, 53) 54%, rgb(81, 99, 117) 99%);
+}
+.supsystic-social-sharing .sharer-flat.grad.bookmark {
+    background-image: -webkit-gradient(
+            linear,
+            left top,
+            left bottom,
+            color-stop(0.54, rgb(235, 235, 164)),
+            color-stop(0.99, rgb(255, 162, 0))
+    );
+    background-image: -o-linear-gradient(bottom, rgb(235, 235, 164) 54%, rgb(255, 162, 0) 99%);
+    background-image: -moz-linear-gradient(bottom, rgb(235, 235, 164) 54%, rgb(255, 162, 0) 99%);
+    background-image: -webkit-linear-gradient(bottom, rgb(235, 235, 164) 54%, rgb(255, 162, 0) 99%);
+    background-image: -ms-linear-gradient(bottom, rgb(235, 235, 164) 54%, rgb(255, 162, 0) 99%);
+    background-image: linear-gradient(to bottom, rgb(235, 235, 164) 54%, rgb(255, 162, 0) 99%);
+}
+.supsystic-social-sharing .sharer-flat.grad.mail {
+    background-image: -webkit-gradient(
+            linear,
+            left top,
+            left bottom,
+            color-stop(0.56, rgb(143, 61, 52)),
+            color-stop(1, rgb(228, 116, 101))
+    );
+    background-image: -o-linear-gradient(bottom, rgb(143, 61, 52) 56%, rgb(228, 116, 101) 100%);
+    background-image: -moz-linear-gradient(bottom, rgb(143, 61, 52) 56%, rgb(228, 116, 101) 100%);
+    background-image: -webkit-linear-gradient(bottom, rgb(143, 61, 52) 56%, rgb(228, 116, 101) 100%);
+    background-image: -ms-linear-gradient(bottom, rgb(143, 61, 52) 56%, rgb(228, 116, 101) 100%);
+    background-image: linear-gradient(to bottom, rgb(143, 61, 52) 56%, rgb(228, 116, 101) 100%);
+}
+.supsystic-social-sharing .sharer-flat.grad.odnoklassniki {
+    background-image: -webkit-gradient(
+            linear,
+            left top,
+            left bottom,
+            color-stop(0.56, rgb(143, 61, 52)),
+            color-stop(1, rgb(228, 116, 101))
+    );
+    background-image: -o-linear-gradient(bottom, rgb(237, 129, 43) 56%, rgb(162, 86, 26) 100%);
+    background-image: -moz-linear-gradient(bottom, rgb(237, 129, 43) 56%, rgb(162, 86, 26) 100%);
+    background-image: -webkit-linear-gradient(bottom, rgb(237, 129, 43) 56%, rgb(162, 86, 26) 100%);
+    background-image: -ms-linear-gradient(bottom, rgb(237, 129, 43) 56%, rgb(162, 86, 26) 100%);
+    background-image: linear-gradient(to bottom, rgb(237, 129, 43) 56%, rgb(162, 86, 26) 100%);
+}
+.supsystic-social-sharing .sharer-flat.grad.evernote {
+    background-image: -webkit-gradient(
+            linear,
+            left top,
+            left bottom,
+            color-stop(0.56, rgb(143, 61, 52)),
+            color-stop(1, rgb(228, 116, 101))
+    );
+    background-image: -o-linear-gradient(bottom, rgb(107, 169, 47) 56%, rgb(19, 35, 3) 100%);
+    background-image: -moz-linear-gradient(bottom, rgb(107, 169, 47) 56%, rgb(19, 35, 3) 100%);
+    background-image: -webkit-linear-gradient(bottom, rgb(107, 169, 47) 56%, rgb(19, 35, 3) 100%);
+    background-image: -ms-linear-gradient(bottom, rgb(107, 169, 47) 56%, rgb(19, 35, 3) 100%);
+    background-image: linear-gradient(to bottom, rgb(107, 169, 47) 56%, rgb(19, 35, 3) 100%);
+}
+.supsystic-social-sharing .sharer-flat.grad.like {
+    background-image: -webkit-gradient(
+            linear,
+            left top,
+            left bottom,
+            color-stop(0.56, rgb(143, 61, 52)),
+            color-stop(1, rgb(228, 116, 101))
+    );
+    background-image: -o-linear-gradient(bottom, rgb(155, 89, 182) 56%, rgb(58, 11, 76) 100%);
+    background-image: -moz-linear-gradient(bottom, rgb(155, 89, 182) 56%, rgb(58, 11, 76) 100%);
+    background-image: -webkit-linear-gradient(bottom, rgb(155, 89, 182) 56%, rgb(58, 11, 76) 100%);
+    background-image: -ms-linear-gradient(bottom, rgb(155, 89, 182) 56%, rgb(58, 11, 76) 100%);
+    background-image: linear-gradient(to bottom, rgb(155, 89, 182) 56%, rgb(58, 11, 76) 100%);
+}
+.supsystic-social-sharing .sharer-flat.grad.tumblr {
+    background-image: -webkit-gradient(
+            linear,
+            left top,
+            left bottom,
+            color-stop(0.54, rgb(92, 92, 92)),
+            color-stop(0.99, rgb(0, 0, 0))
+    );
+    background-image: -o-linear-gradient(bottom, rgb(92, 92, 92) 54%, rgb(0, 0, 0) 99%);
+    background-image: -moz-linear-gradient(bottom, rgb(92, 92, 92) 54%, rgb(0, 0, 0) 99%);
+    background-image: -webkit-linear-gradient(bottom, rgb(92, 92, 92) 54%, rgb(0, 0, 0) 99%);
+    background-image: -ms-linear-gradient(bottom, rgb(92, 92, 92) 54%, rgb(0, 0, 0) 99%);
+    background-image: linear-gradient(to bottom, rgb(92, 92, 92) 54%, rgb(0, 0, 0) 99%);
+}

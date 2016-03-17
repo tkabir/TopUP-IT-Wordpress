@@ -1,0 +1,43 @@
+@button-background-color: rgba(0, 0, 0, .5);
+@button-font-color: #fff;
+@button-padding-bottom: 5px;
+@button-padding-left: 5px;
+@button-padding-right: 5px;
+@button-padding-top: 5px;
+@button-size: 24px;
+@button-top-offset: 10px;
+
+.supsystic-social-sharing {
+  button.social-sharing-navigation-toggle {
+    -moz-border-radius: 100%;
+    -webkit-border-radius: 100%;
+    background: @button-background-color;
+    border-radius: 100%;
+    border: none;
+    color: @button-font-color;
+    font-size: @button-size / 2;
+    height: @button-size;
+    margin-top: @button-top-offset;
+    padding: @button-padding-top @button-padding-right @button-padding-bottom @button-padding-left;
+    width: @button-size;
+
+    &:hover {
+      background: lighten(@button-background-color, 10%);
+    }
+
+    & > i {
+      left: -1px;
+      position: relative;
+      top: -1px;
+    }
+  }
+
+  &.supsystic-social-sharing-top,
+  &.supsystic-social-sharing-bottom {
+    button.social-sharing-navigation-toggle {
+      position: absolute;
+      top: 50%;
+      margin-top: -(@button-size / 2);
+    }
+  }
+}

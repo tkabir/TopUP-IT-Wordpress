@@ -1,0 +1,282 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Social Sharing\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Supsystic <supsystic.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"Language: ru\n"
+
+msgid "An error has occurred"
+msgstr "Произошла ошибка"
+
+msgid "Add new project"
+msgstr "Добавить проект"
+
+msgid "Projects"
+msgstr "Проекты"
+
+msgid "Settings"
+msgstr "Настройки"
+
+msgid "Unable to clone project: %s"
+msgstr "Невозможно клонировать проект: %s"
+
+msgid "Order by can be %s, \"%s\" given."
+msgstr ""
+
+msgid "Failed to execute query: %s"
+msgstr "Не удалось выполнить запрос: %s"
+
+msgid "Project title"
+msgstr "Imya proekta"
+
+msgid "Save"
+msgstr "Сохранить"
+
+msgid "Networks to show"
+msgstr "Сети, для отображения"
+
+msgid "Add Networks"
+msgstr "Добавить сети"
+
+msgid "Saving networks sort order..."
+msgstr ""
+
+msgid "Add button spacing"
+msgstr "Добавить расстояние между кнопками"
+
+msgid "Buttons size"
+msgstr "Размер кнопок"
+
+msgid "Smallest"
+msgstr "Очень маленький"
+
+msgid "Small"
+msgstr "Маленький"
+
+msgid "Normal"
+msgstr "Нормальный"
+
+msgid "Big"
+msgstr "Большой"
+
+msgid "Biggest"
+msgstr "Очень большой"
+
+msgid "Display counters"
+msgstr "Отображать счетчик"
+
+msgid "Show numbers from"
+msgstr "Показать номера из"
+
+msgid "The all projects"
+msgstr "Все проекты"
+
+msgid "The entire project"
+msgstr "Весь проект"
+
+msgid "The each page"
+msgstr "Каждая страница"
+
+msgid "Use short numbers"
+msgstr "Используйте короткие номера"
+
+msgid "Preview"
+msgstr "Просмотр"
+
+msgid "Overlay Effects"
+msgstr "Наложение эффектов"
+
+msgid "Overlay with shadow"
+msgstr "Наложение с тенью"
+
+msgid "Change size"
+msgstr "Изменить размер"
+
+msgid "Animation"
+msgstr "Анимация"
+
+msgid "Buttons animation"
+msgstr "Анимация кнопок"
+
+msgid "Choose Animation"
+msgstr "Выбрать анимацию"
+
+msgid "Icons animation"
+msgstr "Анимация иконок"
+
+msgid "Adds buttons to the selected side of the page."
+msgstr "Добавление кнопки к выбранной части экрана."
+
+msgid "Sidebar"
+msgstr "Боковая панель"
+
+msgid "Top"
+msgstr "Вверху"
+
+msgid "Bottom"
+msgstr "Внизу"
+
+msgid "Left"
+msgstr "Слева"
+
+msgid "Right"
+msgstr "Справа"
+
+msgid "Buttons will appear at the post or page content."
+msgstr "Кнопки появится в содержании поста или страницы."
+
+msgid "Content"
+msgstr "Контент"
+
+msgid "Above Content"
+msgstr "Над контентом"
+
+msgid "Below Content"
+msgstr "Под контентом"
+
+msgid "Above + Below Content"
+msgstr "Выше и ниже контента"
+
+msgid "Popup window with buttons using our awesome Popup plugin."
+msgstr ""
+"Всплывающее окно с кнопками, использует наш удивительный Popup  плагин ."
+
+msgid "Popup"
+msgstr "Попап"
+
+msgid ""
+"You need to install <a href=\"%s\" target=\"_blank\">Popup by Supsystic</a> "
+"to use this feature."
+msgstr ""
+"Вам необходимо установить <a href=\"%s\" target=\"_blank\">Popup by "
+"Supsystic</a> чтобы использовать эту функцию."
+
+msgid ""
+"Creates a widget of the current project at Appearance > Widgets and allows "
+"you to use project at theme's widgets areas."
+msgstr ""
+"Создает виджет текущего проекта при Внешний вид --> Виджеты и позволяет "
+"использовать проект в виджетах темы"
+
+msgid "Widget"
+msgstr "Виджет"
+
+msgid "Allows you to insert project shortcode and show buttons where you want."
+msgstr "Позволяет вставить шорткод проекта и отображать кнопки, где вы хотите."
+
+msgid "Shortcode or PHP code"
+msgstr "Шорткод или PHP код"
+
+msgid "Show at next pages"
+msgstr "Показать на следующих страницах"
+
+msgid "Show everywhere"
+msgstr "Показать везде"
+
+msgid "Show on next posts / pages"
+msgstr "Показать на следующих страницах / постах"
+
+msgid "Posts"
+msgstr "Записи"
+
+msgid "All posts"
+msgstr "Все записи"
+
+msgid "Pages"
+msgstr "Страницы"
+
+msgid "All pages"
+msgstr "Все страницы"
+
+msgid "Hide on mobile devices"
+msgstr "Скрыть на мобильных устройствах"
+
+msgid "When page loads"
+msgstr "При загрузке страницы"
+
+msgid "User clicks on a page"
+msgstr "Пользователь нажмает на странице"
+
+msgid "Select network"
+msgstr "Выбор сети"
+
+msgid "Select All"
+msgstr "Выбрать все"
+
+msgid "Add Project"
+msgstr "Добавить проект"
+
+msgid "Project Title"
+msgstr "Заголовок проекта"
+
+msgid "Create Date"
+msgstr "Дата создания"
+
+msgid "Likes / Shares"
+msgstr "Лайков / поделилось"
+
+msgid "Actions"
+msgstr "Действия"
+
+msgid "Edit project"
+msgstr "Редактировать проект"
+
+msgid "Edit"
+msgstr "Редактировать"
+
+msgid "Currently you haven't any projects"
+msgstr "В настоящее время у вас нету каких-либо проектов"
+
+msgid "Create Project"
+msgstr "Создать проект"
+
+msgid "Click to rename project and hit [Enter]"
+msgstr "Нажмите, чтобы переименовать проект и нажмите [Enter]"
+
+msgid "Clone"
+msgstr "Клонировать"
+
+msgid "Statistic"
+msgstr "Статистика"
+
+msgid "Where and what"
+msgstr "Где и что"
+
+msgid "Buttons design"
+msgstr "Дизайн кнопок"
+
+msgid "Delete"
+msgstr "Удалить"
+
+msgid "Return to the project \"%s\""
+msgstr "Вернуться к проекту \"%s\""
+
+msgid "Return to the project"
+msgstr "Вернуться к проекту"
+
+msgid "Project \"%s\" statistics"
+msgstr "Проект \"%s\" статистика"
+
+msgid "Network total shares"
+msgstr "Количество поделившихся в сети"
+
+msgid "Total shares for last 30 days"
+msgstr "Всего поделилось за последние 30 дней"
+
+msgid "Most popular pages for last 30 days"
+msgstr "Самые популярные страницы за последние 30 дней"
+
+msgid "Title"
+msgstr "Заголовок"
+
+msgid "Type"
+msgstr "Тип"
+
+msgid "Shares"
+msgstr "Поделилось"

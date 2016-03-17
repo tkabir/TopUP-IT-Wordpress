@@ -1,0 +1,16 @@
+.supsystic-plugin .stats-block {
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    padding: 10px;
+}
+
+.supsystic-plugin .stats-block canvas {
+    margin: 10px 0;
+    width: 100%;
+}
+
+.supsystic-plugin .stats-block h2 {
+    border-bottom: 1px solid #ccc;
+    text-align: center;
+    padding: 5px 0 15px 0;
+}

@@ -1,0 +1,51 @@
+{% extends 'layout.twig' %}
+
+{% block content %}
+    <div class="supsystic-item">
+
+        {% if notice %}
+            <div class="updated">
+                <p>Successfully updated.</p>
+            </div>
+            <!-- /.updated -->
+        {% endif %}
+
+        <form action="{{ environment.generateUrl('tester', 'update') }}" method="post">
+            <table class="form-table">
+                <tbody>
+                <tr>
+                    <th scope="row">
+                        <label for="tester-project">Project</label>
+                    </th>
+                    <td>
+                        <select name="project" id="tester-project" class="regular-text">
+                            {% for project in projects %}
+                                <option value="{{ project.id }}">{{ project.title }}</option>
+                            {% endfor %}
+                        </select>
+                        <!-- /#tester-project -->
+                    </td>
+                </tr>
+                <tr>
+                    <th scope="row">
+                        <label for="tester-count">Count</label>
+                    </th>
+                    <td>
+                        <input type="number" name="count" id="tester-count" value="1000" min="1"/>
+                        <!-- /#tester-count -->
+                    </td>
+                </tr>
+                <tr>
+                    <th scope="row">
+                        <input class="button" type="submit" value="GO"/>
+                        <!-- /.button -->
+                    </th>
+                    <td>&nbsp;</td>
+                </tr>
+                </tbody>
+            </table>
+            <!-- /.form-table -->
+        </form>
+    </div>
+    <!-- /.supsystic-item -->
+{% endblock %}

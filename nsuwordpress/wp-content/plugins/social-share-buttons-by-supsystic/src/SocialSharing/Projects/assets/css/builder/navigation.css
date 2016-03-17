@@ -1,0 +1,27 @@
+.supsystic-social-sharing button.social-sharing-navigation-toggle {
+  -moz-border-radius: 100%;
+  -webkit-border-radius: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  border-radius: 100%;
+  border: none;
+  color: #ffffff;
+  font-size: 12px;
+  height: 24px;
+  margin-top: 10px;
+  padding: 5px 5px 5px 5px;
+  width: 24px;
+}
+.supsystic-social-sharing button.social-sharing-navigation-toggle:hover {
+  background: rgba(26, 26, 26, 0.5);
+}
+.supsystic-social-sharing button.social-sharing-navigation-toggle > i {
+  left: -1px;
+  position: relative;
+  top: -1px;
+}
+.supsystic-social-sharing.supsystic-social-sharing-top button.social-sharing-navigation-toggle,
+.supsystic-social-sharing.supsystic-social-sharing-bottom button.social-sharing-navigation-toggle {
+  position: absolute;
+  top: 50%;
+  margin-top: -12px;
+}

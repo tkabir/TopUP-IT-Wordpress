@@ -1,0 +1,94 @@
+{% macro show() %}
+    <div class="supsystic-item">
+        <!-- /.container-fluid -->
+        <div class="container-fluid">
+            {#<div class="row">
+                <div class="col-xs-12">
+                    <a href="{{ environment.generateUrl('projects', 'view', { id: project.id }) }}" class="button" title="{{ environment.translate('Return to the project "%s"') | format(project.title) }}">
+                        <i class="fa fa-fw fa-angle-left"></i>
+                        {{ environment.translate('Return to the project') }}
+                    </a>
+                </div>
+                <!-- /.col-xs-12 -->
+            </div>#}
+            <!-- /.row -->
+            {#<div class="row">
+                <div class="col-xs-12">
+                    <h2>{{ environment.translate('Project "%s" statistics') | format(project.title) }}</h2>
+                </div>
+                <!-- /.col-xs-12 -->
+            </div>#}
+            <!-- /.row -->
+        </div>
+        <!-- /.container-fluid -->
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-xs-12 col-sm-3 stats-block">
+                    <h2>{{ environment.translate('Network total shares') }}</h2>
+                    <canvas id="totalStatistic" style="height: 200px;" data-stats="{{ data|json_encode }}"></canvas>
+                </div>
+                <div class="col-xs-12 col-sm-9 stats-block">
+                    <h2>{{ environment.translate('Total shares for last 30 days') }}</h2>
+                    <canvas id="last30Statistic" style="height: 200px;"></canvas>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xs-12">
+                <h2>{{ environment.translate('Most popular pages for last 30 days') }}</h2>
+                <table class="wp-list-table widefat" id="popularPages">
+                    <thead>
+                    <tr>
+                        <th scope="col">ID</th>
+                        <th scope="col">{{ environment.translate('Title') }}</th>
+                        <th scope="col">{{ environment.translate('Type') }}</th>
+                        <th scope="col">{{ environment.translate('Shares') }}</th>
+                        {#<th scope="col">{{ environment.translate('Views') }}</th>#}
+                    </tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
+            </div>
+            <!-- /.col-xs-12 -->
+        </div>
+        <!-- /.row -->
+        <div class="row" style="margin-top: 20px;">
+            <h1 style="margin-left: 14px;">{{ environment.translate('Views statistic') }}</h1>
+            <div class="col-xs-12 col-sm-3 stats-block" style="margin-left: 14px;">
+                <h2>{{ environment.translate('Projects total views') }}</h2>
+                <canvas id="totalViews" style="height: 200px;" data-stats="{{ data|json_encode }}"></canvas>
+            </div>
+            <div class="col-xs-12" style="width: 60%;">
+                <h2>{{ environment.translate('Most popular pages for last 30 days') }}</h2>
+                <table class="wp-list-table widefat" id="popularPagesViews">
+                    <thead>
+                    <tr>
+                        <th scope="col">ID</th>
+                        <th scope="col">{{ environment.translate('Title') }}</th>
+                        <th scope="col">{{ environment.translate('Type') }}</th>
+                        <th scope="col">{{ environment.translate('Views') }}</th>
+                    </tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    <!-- /.supsystic-item -->
+{% endmacro %}
+<div id="reviewNotice" title="Review" hidden>
+    <h3>Hey, I noticed you just use Social Share by Supsystic over a week – that’s awesome!</h3>
+    <p>Could you please do me a BIG favor and give it a 5-star rating on WordPress? Just to help us spread the word and boost our motivation.</p>
+
+    <ul style="list-style: circle; padding-left: 30px;">
+        <li>
+            <button class="button button-primary"><a href="//wordpress.org/support/view/plugin-reviews/social-share-buttons-by-supsystic?rate=5#postform" target="_blank" class="bupSendStatistic" data-statistic-code="is_shown" style="color:#000000 !important;">Ok, you deserve it</a></button>
+        </li>
+        <li>
+            <button class="button button-primary"><span class="toeLikeLink bupSendStatistic" data-statistic-code="date">Nope, maybe later</span></button>
+        </li>
+        <li>
+            <button class="button button-primary"><span class="toeLikeLink bupSendStatistic" data-statistic-code="is_shown">I already did</span></button>
+        </li>
+    </ul>
+</div>

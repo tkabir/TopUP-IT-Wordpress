@@ -1,0 +1,85 @@
+{% extends 'layout.twig' %}
+
+{% block content %}
+
+    <div class="supsystic-item">
+        <h3 style="line-height: 30px;">
+            {{ environment.translate('Choose Buttons Design. You can change it later.') }}
+        </h3>
+        <hr />
+        <label>
+            <h3 style="float: left; margin: 10px;">{{ environment.translate('Project Name:') }}</h3>
+            <input type="text" id="projectTitle" value="" style="float: left; width: 40%; margin: 0 10px 0 0;" required="">
+        </label>
+
+        <button class="button button-primary" id="createNewSocialButtonProject">
+            <i class="fa fa-check"></i>
+            {{ environment.translate('Create') }}
+        </button>
+        <span id="anchor-for-tutorial"></span>
+
+        <p style="display: none; color: #ff0000" id="projectNameEmpty">{{ environment.translate('Please, set project name!') }}</p>
+        <p style="display: none; color: #ff0000" id="projectStyleEmpty">{{ environment.translate('Please, select button design') }}</p>
+        <br/>
+        <br/>
+        <div class="button-design-preview-wrapper create-project-page" style="height: auto">
+            {% for preview in buttons_preview %}
+                <div class="button-design-preset {% if preview.free == false %}not-pro{% endif %}" data-design="{{ preview.design }}" style="float: left;">
+                    {#<h3 style="display: inline-block;">{{ preview.title }}</h3>#}
+                    {% if preview.free == false %}
+
+                    {% endif %}
+                    <br/>
+                    <div style="height: 350px; width: 420px; position: relative;">
+                        <img src="{{ preview.img_url }}"/>
+                        <div style="position: absolute; top: 50%; left: 50%; transform:translate(-50%, -50%); display:table;">
+                            {% if preview.free == false %}
+                                <button class="button button-primary" style="background-color: #ffffff;">
+                                    {{ environment.translate('Available in PRO') }}
+                                </button>
+                            {% else %}
+                                <button class="button button-primary button-select" style="background-color: #ffffff;">
+                                {{ environment.translate('Select') }}
+                                </button>
+                                <span class="selected-button-design-preset">{{ environment.translate('Selected') }}</span>
+                            {% endif %}
+                        </div>
+
+                        <div class="button-design-preset-overlay">
+                            <h3>{{ preview.title|title }}</h3>
+                        </div>
+                    </div>
+
+                </div>
+            {% endfor %}
+        </div>
+        <div class="clear"></div>
+        <input type="hidden" id="buttonDesign" value="flat">
+
+
+
+        <!-- /#networks-dialog -->
+            <div id="networks-dialog-on-create-project"
+                 title="{{ environment.translate('Select network. You can change Social Networks later') }}"
+                 style="padding: 10px; display: none;">
+                <div class="buttons-helpers" style="margin: 10px;">
+                    <button class="ui-button select-all" style="margin-bottom: 10px; float: right;">
+                        <i class="fa fa-check"></i>
+                        {{ environment.translate('Select All') }}
+                    </button>
+                </div>
+                {% for network in networks %}
+                    <div>
+                        <label for="network{{ network.id }}-checkbox">
+                            <input type="checkbox" name="networks"
+                                   value="{{ network.id }}"
+                                   id="network{{ network.id }}-checkbox"/>
+                            <span>{{ network.name }}</span>
+                        </label>
+                    </div>
+                {% endfor %}
+            </div>
+        <!-- /#networks-dialog -->
+    </div>
+
+{% endblock %}

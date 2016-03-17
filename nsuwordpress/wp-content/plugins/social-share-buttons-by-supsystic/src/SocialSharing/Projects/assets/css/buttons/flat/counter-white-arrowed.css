@@ -1,0 +1,37 @@
+.supsystic-social-sharing .sharer-flat.counter-white-arrowed {
+  margin-right: 51px;
+}
+.supsystic-social-sharing .sharer-flat.counter-white-arrowed .counter-wrap {
+  background-color: #ffffff;
+  border: 1px solid #bdc3c7;
+  color: #333333;
+  font-size: 18px;
+  height: 1.334em;
+  left: 110%;
+  line-height: 1em;
+  margin-top: -0.655em;
+  max-width: 36px;
+  min-width: 28px;
+  padding: 0 5px 2px 5px;
+  text-align: center;
+  top: 50%;
+}
+.supsystic-social-sharing .sharer-flat.counter-white-arrowed .counter-wrap:before,
+.supsystic-social-sharing .sharer-flat.counter-white-arrowed .counter-wrap:after {
+  position: absolute;
+  left: -5px;
+  top: 6px;
+  content: ' ';
+  width: 0;
+  height: 0;
+  border-top: 5px solid transparent;
+  border-bottom: 5px solid transparent;
+  border-right: 5px solid #bdc3c7;
+}
+.supsystic-social-sharing .sharer-flat.counter-white-arrowed .counter-wrap:before {
+  left: -3px;
+  border-right: 4px solid #ffffff;
+}
+.supsystic-social-sharing .sharer-flat.counter-white-arrowed .counter-wrap .counter {
+  font-size: .6em;
+}

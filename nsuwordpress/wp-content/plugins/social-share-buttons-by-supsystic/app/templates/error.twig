@@ -1,0 +1,10 @@
+{% extends 'layout.twig' %}
+
+{% block content %}
+    <h1>{{ environment.translate('An error has occurred') }}</h1>
+    <p>{{ exception.message }}</p>
+
+    {% if environment.isDev() %}
+        <p>{{ exception }}</p>
+    {% endif %}
+{% endblock %}

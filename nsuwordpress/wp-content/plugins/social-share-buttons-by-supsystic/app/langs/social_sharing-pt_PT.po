@@ -1,0 +1,621 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: social_sharing-pt_PT\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: pt_PT\n"
+
+msgid "Content lock settings"
+msgstr "Definições do bloqueio de conteúdos"
+
+msgid "Get PRO"
+msgstr "Comprar versão PRO"
+
+msgid "An error has occurred"
+msgstr "Ocorreu um erro"
+
+msgid "Overview"
+msgstr "Visão geral"
+
+msgid "Add new project"
+msgstr "Adicionar projeto novo"
+
+msgid "Projects"
+msgstr "Projetos"
+
+msgid "License"
+msgstr "Licença"
+
+msgid "Settings"
+msgstr "Definições"
+
+msgid "Activate License"
+msgstr "Ativar licença"
+
+msgid "Renew License"
+msgstr "Renovar licença"
+
+msgid "Congratulations! You have successfully installed and activated PRO version of the plugin."
+msgstr "Parabéns! Versão PRO deste plugin instalada e ativada com sucesso."
+
+msgid "Your premium support is expired in %s days"
+msgstr "O seu apoio técnico premium expirará dentro de %s dias"
+
+msgid "You will not be able to update your pro version with expired license"
+msgstr "Não será possível atualizar a sua versão PRO com uma licença expirada"
+
+msgid "Congratulations! You have successfully installed PRO version of the plugin. Final step to finish Your PRO version setup - is to enter your Email and License Key on this page. This will activate Your copy of software on this site."
+msgstr "Parabéns! A sua versão PRO foi instalada com sucesso. O último passo para finalizar a instalação da versão PRO - introduza o seu endereço de e-mail e Código da Licença neste passo. Isto ativará a sua cópia deste software para este website."
+
+msgid "Activate"
+msgstr "Activar"
+
+msgid "Share"
+msgstr "Partilhar"
+
+msgid "Mono"
+msgstr "Mono"
+
+msgid "Bordered"
+msgstr "Ladeado"
+
+msgid "Livejournal"
+msgstr "LiveJournal"
+
+msgid "Customize"
+msgstr "Personalizar"
+
+msgid "Sidebar customization"
+msgstr "Personalização de barra lateral"
+
+msgid "Bacground color"
+msgstr "Cor do fundo"
+
+msgid "Custom text"
+msgstr "Texto personalizado"
+
+msgid "Background opacity"
+msgstr "Opacidade do fundo"
+
+msgid "Font color"
+msgstr "Cor da fonte"
+
+msgid "Element class"
+msgstr "Elemento da classe"
+
+msgid "Additional buttons styles"
+msgstr "Estilos adicionais dos botões"
+
+msgid "Error"
+msgstr "Ocorreu um erro"
+
+msgid "Social Share Buttons Installation"
+msgstr "Instalação do Social Share Buttons"
+
+msgid "One more advantage of Social Share WordPress Plugin is an easy installation. To install it, you should make three following steps:"
+msgstr "Uma das várias vantagens do Social Share Wordpress Plugin é a sua fácil instalação. Para instalar, siga os seguintes 3 passos:"
+
+msgid "1. Download Social Share Buttons by Supsystic plugin."
+msgstr "1. Descarregue o plugin Social Share Buttons da Supsystic."
+
+msgid "2. Upload to your WordPress plugins directory."
+msgstr "2. Faça upload para o directório dos plugins Wordpress."
+
+msgid "3. Activate and enjoy."
+msgstr "3. Activar, e divirta-se."
+
+msgid "How to use Social Share Buttons plugin?"
+msgstr "Como utilizar o plugin Social Share Buttons?"
+
+msgid "Step 1: Creating Responsive Social Share Buttons"
+msgstr "Passo 1: Criar Social Share Buttons em modo \"responsive\""
+
+msgid "1. On the left navigation menu click Ã¢ÂÂAdd new projectÃ¢ÂÂ."
+msgstr "1. Na parte esquerda da navegação, clique para criar um novo projecto."
+
+msgid "2. Enter the title of project and click Ã¢ÂÂCreateÃ¢ÂÂ."
+msgstr "3. Insira o nome do projecto e clique para criar o novo projecto."
+
+msgid "Step2: Customizing of Social Share by Supsystic"
+msgstr "Passo 2: Personalizar o plugin Social Share Buttons da Supsystic"
+
+msgid "More detail information you can find here"
+msgstr "Poderá encontrar mais informação aqui"
+
+msgid "How to Create Social Share Buttons in WordPress"
+msgstr "Como criar Social Share Buttons no Wordpress"
+
+msgid "How to show Social Buttons in Popup?"
+msgstr "Como apresentar Social Share Buttons no Popup?"
+
+msgid "You can do it using our awesome Popup plugin!"
+msgstr "Poderá fazer isso utilizando este fantástico Popup plugin!"
+
+msgid "1. At first, you need to install Popup by Supsystic plugin."
+msgstr "1. Para começar, precisa de instalar o plugin Popup da Supsystic."
+
+msgid "2. Then come back to the Social Share Buttons plugin and create new project."
+msgstr "2. Depois regresse ao Social Share Buttons e crie um novo projecto."
+
+msgid "3. Go to Ã¢ÂÂWhere to showÃ¢ÂÂ section, find Ã¢ÂÂPopupÃ¢ÂÂ radio button and activate it."
+msgstr "3. Vá até a opção de \"onde mostrar o popup\", e active a opção."
+
+msgid "4. Customize the other settings. DonÃ¢ÂÂt forget to click Ã¢ÂÂSaveÃ¢ÂÂ button."
+msgstr "4. Personalizar outras definições. Não esqueça de salvar as definições."
+
+msgid "5. Popup plugin will automatically create the popup window with buttons."
+msgstr "5. O plugin Popup irá criar automaticamente uma janela com os botões."
+
+msgid "Check all FAQs"
+msgstr "Verifique todas as Perguntas Frequentes"
+
+msgid "Video tutorial"
+msgstr "Vídeo tutorial"
+
+msgid "Server Settings"
+msgstr "Definições do servidor"
+
+msgid "News"
+msgstr "Novidades"
+
+msgid "All news"
+msgstr "Todas novidades"
+
+msgid "Contact Form"
+msgstr "Formulário de contacto"
+
+msgid "Name"
+msgstr "Nome"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Website"
+msgstr "Website"
+
+msgid "Subject"
+msgstr "Assunto"
+
+msgid "Topic"
+msgstr "Tópico"
+
+msgid "Plugin options"
+msgstr "Opções do plugin"
+
+msgid "Report a bug"
+msgstr "Informar um erro"
+
+msgid "Require a new functionallity"
+msgstr "Solicitar uma nova funcionalidade"
+
+msgid "Other"
+msgstr "Outro"
+
+msgid "Message"
+msgstr "Mensagem"
+
+msgid "Send email"
+msgstr "Enviar email"
+
+msgid "Toggle"
+msgstr "Mudar"
+
+msgid "Show all networks"
+msgstr "Mostrar todas as coneções"
+
+msgid "Unable to clone project: %s"
+msgstr "Impossível de clonar projecto: %s"
+
+msgid "Flat"
+msgstr "Flat"
+
+msgid "Selected button set is unavailable for the project \"%s\", \"Flat 1\" will be used."
+msgstr "O botão escolhido está indisponível para o projecto \"%s\", \"Flat1\" será utilizado."
+
+msgid "Order by can be %s, \"%s\" given."
+msgstr "Ordenado por, poderá ser %s, \"%s\" ."
+
+msgid "Failed to execute query: %s"
+msgstr "Falha para executar query: %s"
+
+msgid "Adds buttons to the selected side of the page."
+msgstr "Adiciona botões à área escolhida da página"
+
+msgid "Buttons will appear at the post or page content."
+msgstr "Botões aparecerão no conteúdo do artigo ou página."
+
+msgid "You need to install %s to use this feature."
+msgstr "Necessita de instalar %s para usar esta funcionalidade."
+
+msgid "Creates a widget of the current project at Appearance > Widgets and allows you to use project at theme's widgets areas."
+msgstr "Cria uma \"widget\" para o actual projecto em Apresentação > Widgets e permite que utilize o projecto nas Widgets do tema."
+
+msgid "Allows you to insert project shortcode and show buttons where you want."
+msgstr "Permite-lhe que insira o shortcode do projecto e mostrar botões aonde você deseja."
+
+msgid "Adds space between the buttons %s"
+msgstr "Adiciona espaço no meio dos botões %s"
+
+msgid "Choose the size for social buttons. This option allows you to accent the attention for as much as you want %s"
+msgstr "Escolhe o tamanho dos botões. Esta opção permite-lhe centrar a atenção ao máximo que entender."
+
+msgid "Displays counters of social shares on buttons %s"
+msgstr "Divulgar contadores das partilhas sociais nos botões."
+
+msgid "Displays counters styles of social shares on buttons %s"
+msgstr "Mostra estilos dos contadores das partilhas nos botões %s"
+
+msgid "Rounds up big numbers of counters and displays the short numbers. Available only with enabled \\\"Display counters\\\" option %s"
+msgstr "Alterar os números dos contadores e apresentar números mais curtos. Disponível apenas quando activado  \\\"Display counters\\\" option %s"
+
+msgid "Gradient mode creates smooth transitions from the one color to another %s"
+msgstr "Modo gradiente cria transições suaves de uma cor para outra %s"
+
+msgid "Adds overlay with shadow for buttons %s"
+msgstr "Adiciona Overlay com sombras para os botões %s"
+
+msgid "Change size for buttons %s"
+msgstr "Mudar tamanho dos botões %s"
+
+msgid "Show/hide navigation button for sidebar mode. Allows user to show or hide share buttons"
+msgstr "Mostrar/ocultar botão de navegação para o modo da barra lateral. Permite o utilizador mostrar ou ocultar os botões de partilhar"
+
+msgid "Allows user to display all networks in popup"
+msgstr "Permite o utilizador apresentar todas redes no popup"
+
+msgid "Allows you to lock content elements by class name before user shares this page with any network"
+msgstr "Permite-lhe bloquear elementos do conteúdo pelo nome da classe antes do utilizador partilhar esta página com qualquer rede"
+
+msgid "Choose pages on which you want to show popup. You can choose \"All Pages\" or specify posts, pages or URLs"
+msgstr "Escolha páginas que desejar mostrar o popup. Poderá escolher \"Todas páginas\" ou artigos específicos, páginas ou URLs."
+
+msgid "Choose this option if you don't want to display icons on mobile devices"
+msgstr "Escolhe esta página se não pretende que sejam mostrados icons nos equipamentos móveis"
+
+msgid "Show on all pages"
+msgstr "Mostrar em todas páginas"
+
+msgid "Show Social Buttons when page loads"
+msgstr "Divulgar Social Buttons quando a página abre"
+
+msgid "Show Social Buttons when user clicks on page"
+msgstr "Divulgar Social Buttons quando utilizador clica na página"
+
+msgid "ID is not specified."
+msgstr "ID não está especificado"
+
+msgid "Project not found"
+msgstr "Projecto não encontrado"
+
+msgid "Add new"
+msgstr "Adicionar novo"
+
+msgid "Project title"
+msgstr "Título do projecto"
+
+msgid "Save"
+msgstr "Guardar"
+
+msgid "Networks to show"
+msgstr "Redes para apresentar"
+
+msgid "Add Networks"
+msgstr "Adicionar redes"
+
+msgid "Saving networks sort order..."
+msgstr "Salvar as redes por ordem..."
+
+msgid "Buttons Design"
+msgstr "Design dos botões"
+
+msgid "Choose Template"
+msgstr "Escolher tema"
+
+msgid "Available in PRO"
+msgstr "Disponível em PRO"
+
+msgid "Preview"
+msgstr "Previsualizar"
+
+msgid "Adds space between the buttons."
+msgstr "Adiciona espaço no meio dos botões."
+
+msgid "Add button spacing"
+msgstr "Adicionar espaço dos botões"
+
+msgid "Choose the size for social buttons. This option allows you to accent the attention for as much as you want it."
+msgstr "Escolhe o tamanho dos botões. Esta opção permite-lhe centrar a atenção ao máximo que entender."
+
+msgid "Buttons size"
+msgstr "Tamanho dos botões"
+
+msgid "Smallest"
+msgstr "O mais pequeno"
+
+msgid "Small"
+msgstr "Pequeno"
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "Big"
+msgstr "Grande"
+
+msgid "Biggest"
+msgstr "Maior"
+
+msgid "Displays counters of social shares on buttons."
+msgstr "Divulgar contadores das partilhas sociais nos botões."
+
+msgid "Display counters"
+msgstr "Mostrar contadores"
+
+msgid "Counter style"
+msgstr "Estilo do contador"
+
+msgid "Show counter after the number of shares"
+msgstr "Mostrar contador depois do número de partilhas"
+
+msgid "Choose from what exactly to count the shares Ã¢ÂÂ the all projects, the entire project, the each page."
+msgstr "Escolher exactamente para contar as partilhas de todos projectos, o projecto interior, por cada página."
+
+msgid "Show numbers from"
+msgstr "Mostrar números de"
+
+msgid "The all projects"
+msgstr "Todos projectos"
+
+msgid "The entire project"
+msgstr "O projecto inteiro"
+
+msgid "The each page"
+msgstr "Cada página"
+
+msgid "Rounds up big numbers of counters and displays the short numbers. Available only with enabled \"Display counters\" option."
+msgstr "Arredondar os números e divulgar os números pequenos. Disponível apenas com a opção ativada \"Mostrar contadores\"."
+
+msgid "Use short numbers"
+msgstr "Usar números curtos"
+
+msgid "Enable gradient mode"
+msgstr "Activar o modo gradiente"
+
+msgid "Overlay with shadow"
+msgstr "Overlay com sombra"
+
+msgid "Change size"
+msgstr "Mudar o tamanho"
+
+msgid "Buttons animation"
+msgstr "Animação dos botões"
+
+msgid "Choose Animation"
+msgstr "Escolher animação"
+
+msgid "Icons animation"
+msgstr "Animação dos icons"
+
+msgid "Pro designs"
+msgstr "Design PRO"
+
+msgid "Where to show"
+msgstr "Onde mostrar"
+
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+msgid "Top"
+msgstr "Top"
+
+msgid "Bottom"
+msgstr "Fundo"
+
+msgid "Left"
+msgstr "Esquerda"
+
+msgid "Right"
+msgstr "Direita"
+
+msgid "Content"
+msgstr "Conteúdo"
+
+msgid "Above Content"
+msgstr "Acima do conteúdo"
+
+msgid "Below Content"
+msgstr "Abaixo do conteúdo"
+
+msgid "Above + Below Content"
+msgstr "Acima + fundo do conteúdo"
+
+msgid "Popup"
+msgstr "Popup"
+
+msgid "You need to install <a href=\"%s\" target=\"_blank\">Popup by Supsystic</a> to use this feature."
+msgstr "Necessita de instalar  <a href=\"%s\" target=\"_blank\">Popup by Supsystic</a> para utilizar esta funcionalidade."
+
+msgid "Widget"
+msgstr "Widget"
+
+msgid "Shortcode or PHP code"
+msgstr "Shortcode ou código PHP"
+
+msgid "Show navigation button"
+msgstr "Mostrar botões da navegação"
+
+msgid "Enable Content Lock"
+msgstr "Autorizar o bloqueio de conteúdos"
+
+msgid "Content Lock Element Class"
+msgstr "Classe Elemento do bloqueio de conteúdos"
+
+msgid "Show at next pages"
+msgstr "Mostrar nas seguintes páginas"
+
+msgid "Show everywhere"
+msgstr "Mostrar em todo lado"
+
+msgid "Homepage only"
+msgstr "Página inicial apenas"
+
+msgid "Show on next posts / pages"
+msgstr "Apresentar nos próximos artigos / páginas"
+
+msgid "Posts"
+msgstr "Artigos"
+
+msgid "All posts"
+msgstr "Todos artigos"
+
+msgid "Pages"
+msgstr "Páginas"
+
+msgid "All pages"
+msgstr "Todas páginas"
+
+msgid "Hide on mobile devices"
+msgstr "Ocultar nos equipamentos móveis"
+
+msgid "When page loads"
+msgstr "Quando a página carrega"
+
+msgid "User clicks on a page"
+msgstr "Utilizador clica na página"
+
+msgid "Select network"
+msgstr "Escolher rede"
+
+msgid "Select All"
+msgstr "Escolher todos"
+
+msgid "Select design"
+msgstr "Escolher design"
+
+msgid "Select popup"
+msgstr "Escolher Popup"
+
+msgid "Currently you haven't any popups. <a style=\"display: inline-block; text-decoration: none !important; padding-left: 5px; padding-right: 5px; margin: 0;\" href=\"%s\" target=\"_blank\" class=\"ui-button\">Create your first PopUp</a> and then just return to this page and select PopUp here."
+msgstr ""
+"De momento não tem nenhum popup. <a style=\"display: inline-block; text-decoration: none !important; padding-left: 5px; padding-right: 5px; margin: 0;\" href=\"%s\" target=\"_blank\" class=\"ui-button\">\n"
+"Crie o seu primeiro Popup</a> e depois volte a esta página e escolha PopUp."
+
+msgid "Choose Buttons Design. You can change it later."
+msgstr "Escolha o design dos botões. Poderá alterar depois."
+
+msgid "Project Name:"
+msgstr "Nome do projecto:"
+
+msgid "Create"
+msgstr "Criar"
+
+msgid "Please, set project name!"
+msgstr "Por favor defina nome do projecto!"
+
+msgid "Please, select button design"
+msgstr "Por favor, selecione o design do botão"
+
+msgid "Selected"
+msgstr "Seleccionado"
+
+msgid "Title"
+msgstr "Título"
+
+msgid "Button Text"
+msgstr "Texto do botão"
+
+msgid "Tooltip"
+msgstr "Dica"
+
+msgid "Add Project"
+msgstr "Adicionar projecto"
+
+msgid "Project Title"
+msgstr "Título do projecto"
+
+msgid "Total shares"
+msgstr "Total de partilhas"
+
+msgid "Create Date"
+msgstr "Data da criação"
+
+msgid "Likes / Shares"
+msgstr "Gostos / Partilhas"
+
+msgid "Actions"
+msgstr "Acções"
+
+msgid "Edit project"
+msgstr "Editar projecto"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Currently you haven't any projects"
+msgstr "De momento não tem qualquer projecto"
+
+msgid "Enter project name"
+msgstr "Inserir nome do projecto"
+
+msgid "Click to rename project and hit [Enter]"
+msgstr "Clique para renomear o projecto e carregue em ENTER"
+
+msgid "Main"
+msgstr "Principal"
+
+msgid "Design"
+msgstr "Design"
+
+msgid "Effects"
+msgstr "Efeitos"
+
+msgid "Statistic"
+msgstr "Estatística"
+
+msgid "Clone"
+msgstr "Clone"
+
+msgid "Delete"
+msgstr "Apagar"
+
+msgid "Get Pro"
+msgstr "Comprar versão PRO"
+
+msgid "Return to the project \"%s\""
+msgstr "Regressar ao projecto \"%s\""
+
+msgid "Return to the project"
+msgstr "Regressar ao projecto"
+
+msgid "Project \"%s\" statistics"
+msgstr "Estatísticas do projecto \"%s\""
+
+msgid "Network total shares"
+msgstr "Total de partilhas na rede"
+
+msgid "Total shares for last 30 days"
+msgstr "Total de partilhas nos últimos 30 dias"
+
+msgid "Most popular pages for last 30 days"
+msgstr "As páginas mais popular nos últimos 30 dias"
+
+msgid "Type"
+msgstr "Tipo"
+
+msgid "Shares"
+msgstr "Partilhas"
+
+msgid "Views"
+msgstr "Visualizações"
+
+msgid "Views statistic"
+msgstr "Ver estatísticas"
+
+msgid "Projects total views"
+msgstr "Projetos total visualizações"

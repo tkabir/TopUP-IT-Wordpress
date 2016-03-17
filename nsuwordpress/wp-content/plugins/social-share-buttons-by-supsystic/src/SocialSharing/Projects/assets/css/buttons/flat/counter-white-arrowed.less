@@ -1,0 +1,74 @@
+.supsystic-social-sharing{
+  .sharer-flat {
+    &.counter-white-arrowed {
+      // Counter
+      @counter-background-color: #fff;
+      @counter-font-color: #333;
+      @counter-border-size: 1px;
+      @counter-border-color: #bdc3c7;
+      @counter-max-width: 36px;
+
+      // Arrow
+      @arrow-size: 5px;
+      @arrow-color: @counter-border-color;
+
+      margin-right: @counter-max-width + 15;
+
+      .counter-wrap {
+        background-color: @counter-background-color;
+        border: @counter-border-size solid @counter-border-color;
+        color: @counter-font-color;
+        font-size: 18px;
+        height: 1.334em;
+        left: 110%;
+        line-height: 1em;
+        margin-top: -.655em;
+        max-width: @counter-max-width;
+        min-width: 28px;
+        padding: 0 5px 2px 5px;
+        text-align: center;
+        top: 50%;
+
+        &:before,
+        &:after {
+          position: absolute;
+          left: 0 - @arrow-size;
+          top: 6px;
+          content: ' ';
+          width: 0;
+          height: 0;
+          border-top: @arrow-size solid transparent;
+          border-bottom: @arrow-size solid transparent;
+          border-right: @arrow-size solid @arrow-color;
+        }
+
+        &:before {
+          @arrow-background-size: @arrow-size - 1;
+          left: -(@arrow-background-size - 1);
+          border-right: @arrow-background-size solid @counter-background-color;
+        }
+
+        .counter {
+          font-size: .6em;
+        }
+      }
+    }
+  }
+}
+
+// Fix the counter position in the admin panel
+//.supsystic-plugin {
+//  .counter-white-arrowed {
+//    @counter-top-offset: .7em;
+//    @arrow-top-offset: @counter-top-offset / 2;
+//
+//    .counter-wrap {
+//      //top: @counter-top-offset !important;
+//
+//      &:before,
+//      &:after {
+//        top: @arrow-top-offset !important;
+//      }
+//    }
+//  }
+//}

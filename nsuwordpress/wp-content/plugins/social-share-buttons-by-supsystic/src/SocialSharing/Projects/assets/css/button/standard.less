@@ -1,0 +1,136 @@
+@import "//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css";
+@import "variables.less";
+
+html {
+  body {
+    .@{base-selector} {
+      // Normalize all elements inside container.
+      @import (less) 'normalize.css';
+
+      font-family: "Lucida Grande", "Lucida Sans", "Lucida Sans Unicode", Verdana, Arial, Helvetica, sans-serif;
+      font-size: @base-size;
+      line-height: 1;
+      display: none;
+
+      &:after {
+        clear: both;
+        content: '.';
+        display: block;
+        height: 0;
+        visibility: hidden;
+      }
+
+      // Position: Sidebar
+      &.@{base-selector}-fixed {
+        position: fixed;
+        text-align: center;
+        z-index: 999;
+
+        a.@{base-button-selector} {
+          display: block;
+          margin: 0;
+        }
+
+        // Sidebar: Left
+        &.@{base-selector}-left {
+          left: 0;
+
+          &.@{base-selector}-spacing {
+            a.@{base-button-selector} {
+              margin-bottom: 5px;
+              margin-right: 0;
+            }
+          }
+        }
+
+        // Sidebar: Right
+        &.@{base-selector}-right {
+          right: 0;
+
+          &.@{base-selector}-spacing {
+            a.@{base-button-selector} {
+              margin-bottom: 5px;
+              margin-right: 0;
+            }
+          }
+        }
+
+        // Sidebar: Top
+        &.@{base-selector}-top {
+          display: block;
+          margin: 0 auto;
+          text-align: center;
+          top: 0;
+          width: 100%;
+
+          a.@{base-button-selector} {
+            display: inline-block;
+            margin: 0 10px;
+          }
+
+          &.@{base-selector}-adminbar {
+            top: 35px;
+          }
+        }
+
+        // Sidebar: Bottom
+        &.@{base-selector}-bottom {
+          bottom: 0;
+          display: block;
+          margin: 0 auto;
+          text-align: center;
+          width: 100%;
+
+          a.@{base-button-selector} {
+            display: inline-block;
+            margin: 0 10px 10px 10px;
+          }
+        }
+      }
+
+      &.@{base-selector}-spacing {
+        a.@{base-button-selector} {
+          margin-right: 1.25em;
+        }
+      }
+
+      a.@{base-button-selector} {
+        -moz-box-sizing: border-box;
+        -webkit-box-sizing: border-box;
+        background-color: #000;
+        border: none;
+        box-sizing: border-box;
+        color: #fff;
+        display: inline-block;
+        font-size: 1em;
+        margin-bottom: 5px;
+        margin-top: 5px;
+        outline: none;
+        padding: @padding-top @padding-right @padding-bottom @padding-left;
+        position: relative;
+        text-decoration: none;
+
+        &.without-counter {
+          .counter-wrap {
+            display: none;
+          }
+        }
+
+        i {
+          span {
+            font-family: "Lucida Grande", "Lucida Sans", "Lucida Sans Unicode", Verdana, Arial, Helvetica, sans-serif;
+            font-size: .75em;
+          }
+        }
+
+        .counter-wrap {
+          position: absolute;
+
+          & > .counter {
+            font-family: "Lucida Grande", "Lucida Sans", "Lucida Sans Unicode", Verdana, Arial, Helvetica, sans-serif;
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,105 @@
+@import "../button/variables.less";
+
+@arrow-color: @color-border;
+@arrow-size: 0.3125em;
+@color-background: #ffffff;
+@color-border: #bdc3c7;
+@color-font: #333333;
+@font-size: 0.6em;
+@counter-horizontal-padding: 0.4166666666666667em;
+@counter-width: 2.5em;
+
+.@{base-selector} {
+  a.@{base-button-selector} {
+    &.counter-white-arrowed {
+      margin-right: @counter-width + @counter-horizontal-padding;
+
+      &.sharer-flat-6,
+      &.sharer-flat-7,
+      &.sharer-flat-8,
+      &.sharer-flat-9 {
+        .counter-wrap {
+          &.white-arrowed {
+            left: 7em + @arrow-size;
+          }
+        }
+      }
+
+      &.sharer-mono-5,
+      &.sharer-mono-6,
+      &.sharer-mono-7,
+      &.sharer-mono-8 {
+        .counter-wrap {
+          &.white-arrowed {
+            left: 1.3em + (0.75em * 6) + @arrow-size;
+          }
+        }
+      }
+
+      &.sharer-bordered {
+        &.sharer-bordered-1 {
+          .counter-wrap {
+            &.white-arrowed {
+              bottom: initial;
+              left: initial;
+              right: -2.5em;
+              top: 0.500em;
+            }
+          }
+        }
+      }
+
+      &.sharer-livejournal {
+        &.sharer-livejournal-1 {
+          .counter-wrap {
+            &.white-arrowed {
+              bottom: initial;
+              left: 108%;
+              //right: -2.5em;
+              top: 0.500em;
+            }
+          }
+        }
+      }
+
+      .counter-wrap {
+        &.white-arrowed {
+          background: @color-background;
+          border: 1px solid @color-border;
+          bottom: @padding-bottom;
+          color: @color-font;
+          left: 1.3em + @padding-left + @padding-right + @arrow-size;
+          line-height: 0.8;
+          text-align: center;
+          top: @padding-top;
+
+          &:before,
+          &:after {
+            border-bottom: @arrow-size solid transparent;
+            border-right: @arrow-size solid @arrow-color;
+            border-top: @arrow-size solid transparent;
+            bottom: 0;
+            content: ' ';
+            height: 0;
+            left: -@arrow-size;
+            margin: auto;
+            overflow: auto;
+            position: absolute;
+            top: 0;
+            width: 0;
+          }
+
+          &:after {
+            border-right-color: @color-background;
+            left: -(@arrow-size - 0.0625em * 1.5);
+          }
+
+          & > .counter {
+            font-size: @font-size;
+            padding: 0 @counter-horizontal-padding;
+          }
+        }
+      }
+    }
+  }
+}

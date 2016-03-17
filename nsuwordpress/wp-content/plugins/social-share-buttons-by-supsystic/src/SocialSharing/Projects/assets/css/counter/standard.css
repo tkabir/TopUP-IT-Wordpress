@@ -1,0 +1,20 @@
+.supsystic-social-sharing a.social-sharing-button.counter-standard .counter-wrap.standard {
+  right: -0.5em;
+  top: -0.5em;
+}
+.supsystic-social-sharing.supsystic-social-sharing-right a.social-sharing-button.counter-standard .counter-wrap.standard {
+  right: 2.05em;
+}
+.supsystic-social-sharing a.social-sharing-button.counter-standard .counter-wrap.standard > .counter {
+  -moz-border-radius: 1.25em;
+  -webkit-border-radius: 1.25em;
+  background-color: #c0392b;
+  border-radius: 1.25em;
+  color: #ffffff;
+  font-family: "Inconsolata", "Fira Mono", "Source Code Pro", Monaco, Consolas, "Lucida Console", monospace;
+  font-size: 0.5em;
+  font-weight: bold;
+  padding: 0.5em 0.875em;
+  right: -0.5em;
+  text-shadow: 1px 1px 0 #d65548;
+}
