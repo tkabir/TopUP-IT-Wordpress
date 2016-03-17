@@ -1,0 +1,170 @@
+/*
+ Theme Name:     VRYN Restaurant
+ Theme URI:      http://pixelthemes.com/vryn-restaurant-free-wordpress-theme/
+ Description:    VRYN Restaurant is a theme based on Sixteen WordPress theme and it is a  Child Theme.
+ Author:         InkHive (Sixteen) and Rajeshkannan (VRYN Restaurant)
+ Author URI:     http://pixelthemes.com/
+ Template:       sixteen
+ Version:        1.8
+ Tags: light, yellow, brown, custom-background, two-columns, right-sidebar, left-sidebar, responsive-layout, custom-menu, sticky-post, theme-options, threaded-comments, translation-ready, featured-images, photoblogging, custom-header, full-width-template, editor-style
+*/
+ 
+
+/* = To add any Custom CSS to Overide existing properties, use the custom css option in Sixteen Settings > Layout > Custom CSS. Or use the "Edit CSS" option provided by Jetpack if you have it enabled.
+
+You can add new styles here for elements that have been created by you. 
+-------------------------------------------------------------- */
+
+body
+{
+font-family: 'Karla', sans-serif;
+font-size: 16px;
+}
+
+#header-image:after
+{
+	background:none;
+}
+header .site-title a
+{
+text-transform: capitalize;
+font-family: 'Damion', cursive;
+}
+.homepage-article h1.entry-title a {
+width: 200px;
+overflow: hidden;
+text-overflow: ellipsis;
+white-space: nowrap;
+display: inline-block;
+}
+.homepage-article h1.entry-title a[data-title]:hover:after
+{
+display: none;
+opacity: 0;
+}
+#content {
+background: rgba(230, 225, 196, 0.6);
+}
+
+/*
+Menu Start
+*/
+.main-navigation
+{
+	background: #3d291e;
+	border: none;
+	font-size: 22px;
+}
+.main-navigation a
+{
+color: #B0A591;
+font-family: 'Damion', cursive;
+padding: 28px 15px;
+-o-transition:.5s;
+-ms-transition:.5s;
+-moz-transition:.5s;
+-webkit-transition:.5s;
+/* ...and now for the proper property */
+transition:.5s;
+
+}
+
+.main-navigation ul ul { 
+top: 4em;
+}
+
+.main-navigation ul li a:hover
+{
+	color:#FFF;
+}
+ 
+.main-navigation ul ul
+{
+border-radius: 0px 0px 5px 5px;
+}
+ 
+.main-navigationn ul ul a
+{
+padding: 5px 10px;
+}
+.main-navigation ul ul a:hover
+{
+color: #fff;
+background: #615642;
+}
+ 
+.main-navigation li.current_page_item > a, .main-navigation li.current-menu-item > a
+{
+color: #fff;
+background: #615642;
+}
+
+.menu-toggle, .main-navigation.toggled .nav-menu
+{
+color: #B0A591;
+}
+.main-navigation .current-menu-item > a,
+.main-navigation .current-menu-ancestor > a, 
+.main-navigation .current_page_item > a,
+.main-navigation .current_page_ancestor > a 
+{
+color: #fff;
+background: #615642;
+}
+/*
+Menu End
+*/
+
+/*
+Pagination Start
+*/
+.pagination ul > li > a, .pagination ul > li > span
+{
+background: #fff;
+}
+.pagination .current
+{
+background: #000;
+color: #fff;
+}
+.pagination ul > li > a:hover {
+background: #000;
+color: #fff;
+}
+/*
+Pagination End
+*/
+h2#page-title, .archive h1.page-title, .page h1.entry-title
+{
+border-bottom: none;
+box-shadow: none;
+margin-bottom: 0px;
+font-family: 'Damion', cursive;
+}
+
+/*
+Widgets start
+*/
+#search-2 .search-field
+{
+background: #fff;
+}
+#secondary .widget-title, #footer-sidebar .widget-title
+{
+background: #3d291e;
+color: #fff;
+font-size: 27px;
+font-family: 'Damion', cursive; 
+}
+#secondary a:hover, #footer-sidebar a:hover {
+color: #a36700;
+}
+/*
+Widgets End
+*/
+
+
+
+
+
+ 

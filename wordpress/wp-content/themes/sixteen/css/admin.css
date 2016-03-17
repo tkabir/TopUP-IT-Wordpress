@@ -1,0 +1,5 @@
+/* Customizer Styles */
+li#accordion-section-sixteen_sec_upgrade h3:before {
+  content: "\f005";
+  font-family: "FontAwesome";
+}
